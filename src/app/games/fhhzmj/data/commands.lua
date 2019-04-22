@@ -1,0 +1,65 @@
+-- 上行命令列表, key 与 value 均不能重复
+local MAJIANG_COMMANDS = {
+    FHHZMJ_ENTER_ROOM = 3801,
+    FHHZMJ_LEAVE_ROOM = 3802,  -- 退出房间
+    FHHZMJ_ROOM_INFO = 3803,  -- 房间配置数据
+    FHHZMJ_PLAYER_ENTER_ROOM = 3804,  -- 玩家进入房间
+    FHHZMJ_OWNER_DISMISS = 3805, -- 房主解散房间
+    FHHZMJ_GAME_START = 3806,  -- 游戏开始
+    FHHZMJ_GAME_OVER = 3807,  -- 游戏结束
+    FHHZMJ_ROUND_START = 3808,  -- 一局开始
+    FHHZMJ_ROUND_OVER = 3809,  -- 一局结束
+    FHHZMJ_REQUEST_DISMISS = 3810,  -- 申请解散房间
+    FHHZMJ_READY = 3811,
+    FHHZMJ_TURN_TO = 3812,  -- 轮到某人
+    FHHZMJ_CHU_PAI = 3813,  -- 出牌
+    FHHZMJ_PLAYER_PASS = 3814,  -- 过
+    FHHZMJ_TIAN_HU_START = 3815 , --天胡时间到
+    FHHZMJ_TIAN_HU_END = 3816 , --天胡结束
+    FHHZMJ_USER_GANG = 3817 , --玩家提牌
+    FHHZMJ_DEAL_CARD = 3818, -- 发牌 
+    FHHZMJ_USER_AFTER_GANG = 3819 , --杠后牌
+    FHHZMJ_USER_MO_PAI = 3820 , -- 玩家摸牌公示
+    FHHZMJ_USER_BU_CARD = 3821, -- 补牌
+    FHHZMJ_USER_PENG = 3822, -- 碰
+    FHHZMJ_USER_CHI = 3823, -- 吃 
+    FHHZMJ_ALL_PASS = 3828, -- 所有人都过牌
+    FHHZMJ_ONLINE_STATE = 3824,  -- 在线事件广播   在线 离线
+    FHHZMJ_BROADCAST = 3825,  -- 客户端请求房间内广播
+    FHHZMJ_USER_HU = 3826,-- 胡牌 
+    FHHZMJ_NOTIFY_HU = 3827 ,-- 通知玩家选择是否胡牌
+    FHHZMJ_DEBUG_CONFIG_CARD = 3829,  -- 调试设牌命令
+    FHHZMJ_BEGIN_CHUI = 3830,  -- 开始锤
+    FHHZMJ_NOTIFY_LOCATION = 3831,  -- 通知位置
+    FHHZMJ_REQUEST_LOCATION = 3832,  -- 通知位置
+    FHHZMJ_PLAYER_CHUI = 3833,
+    -- MJ_PUBLCI_OPARERATE_START = 3833,
+    FHHZMJ_PUBLCI_OPARERATE_ENDED = 3834,
+    FHHZMJ_PUBLIC_TIME = 3836,
+    FHHZMJ_PLAY_ACTION = 3835,
+    FHHZMJ_SHOW_BIRDS = 3838,
+    FHHZMJ_UPDATE_SCORE = 3837,
+    FHHZMJ_CLUB_DISMISSROOM = 3883, -- 抽奖 
+    FHHZMJ_GET_ALL_PLAYER_CARDS = 3844,
+}
+
+FHHZMJ_T_IN_IDLE = 0  -- 无状态
+FHHZMJ_T_IN_CHU_PAI = 1  -- 在出牌中
+FHHZMJ_T_IN_PUBLIC_OPRATE = 2  -- 公共操作过程中
+FHHZMJ_T_IN_MO_PAI = 3  -- 在摸牌中 暗(未公示)
+FHHZMJ_T_IN_MO_PAI_CALL = 4 -- 在摸牌后的呼叫中
+FHHZMJ_T_IN_MING_GANG_PAI_CALL = 5  -- 抢杠胡判断流程
+FHHZMJ_T_IN_GONG_GANG_PAI_CALL = 6  -- 抢杠胡判断流程
+FHHZMJ_T_IN_AN_GANG_PAI_CALL = 7  -- 抢杠胡判断流程
+FHHZMJ_T_IN_GANG_PAI_CALL = 8  -- 杠牌操作流程
+FHHZMJ_T_IN_OTHER_GANG_PAI_CALL = 38  -- 杠牌后自己不可操作别人的操作流程
+FHHZMJ_T_IN_WILL_BEGIN_OPTION = 38
+-- 反转命令列表得到的命令的字符串列表，反转时要保证命令的唯一性
+
+COMMANDS = COMMANDS or {}
+table.merge(COMMANDS, MAJIANG_COMMANDS)
+
+COMMAND_NAMES = COMMAND_NAMES or {}
+table.merge(COMMAND_NAMES, reverseCommands(COMMANDS))
+
+

@@ -1,0 +1,11 @@
+{
+	"packageUrl" : "http://120.79.233.16:8088/hotupdate/",
+	"remoteManifestUrl" : "http://120.79.233.16:8088/hotupdate/res/project.manifest",
+	"remoteVersionUrl" : "http://120.79.233.16:8088/hotupdate/res/version.manifest",
+	"version" : "1.0.5",
+	"engineVersion" : "Cocos2dx-lua 3.6.5",
+	"assets" : {
+	},
+	"searchPaths" : [
+	]
+}

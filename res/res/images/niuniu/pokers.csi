@@ -1,0 +1,56 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="pokers" ID="b4023341-7f7e-487a-a12d-88427bfab028" Version="2.0.6.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="res/images/game/pokers/dawang.png" />
+      <FilePathData Path="res/images/game/pokers/fangb.png" />
+      <FilePathData Path="res/images/game/pokers/fangs.png" />
+      <FilePathData Path="res/images/game/pokers/heib.png" />
+      <FilePathData Path="res/images/game/pokers/heis.png" />
+      <FilePathData Path="res/images/game/pokers/hongb.png" />
+      <FilePathData Path="res/images/game/pokers/meib.png" />
+      <FilePathData Path="res/images/game/pokers/hongs.png" />
+      <FilePathData Path="res/images/game/pokers/meis.png" />
+      <FilePathData Path="res/images/game/pokers/pkbg.png" />
+      <FilePathData Path="res/images/game/pokers/pkbg_s.png" />
+      <FilePathData Path="res/images/game/pokers/poker_bg.png" />
+      <FilePathData Path="res/images/game/pokers/xiaowang.png" />
+      <FilePathData Path="res/images/game/pokers/xuanzhongse.png" />
+      <FilePathData Path="res/images/game/pokers/heizi/10.png" />
+      <FilePathData Path="res/images/game/pokers/heizi/11.png" />
+      <FilePathData Path="res/images/game/pokers/heizi/12.png" />
+      <FilePathData Path="res/images/game/pokers/heizi/13.png" />
+      <FilePathData Path="res/images/game/pokers/heizi/14.png" />
+      <FilePathData Path="res/images/game/pokers/heizi/16.png" />
+      <FilePathData Path="res/images/game/pokers/heizi/3.png" />
+      <FilePathData Path="res/images/game/pokers/heizi/4.png" />
+      <FilePathData Path="res/images/game/pokers/heizi/5.png" />
+      <FilePathData Path="res/images/game/pokers/heizi/6.png" />
+      <FilePathData Path="res/images/game/pokers/heizi/7.png" />
+      <FilePathData Path="res/images/game/pokers/heizi/8.png" />
+      <FilePathData Path="res/images/game/pokers/heizi/9.png" />
+      <FilePathData Path="res/images/game/pokers/hongzi/10.png" />
+      <FilePathData Path="res/images/game/pokers/hongzi/11.png" />
+      <FilePathData Path="res/images/game/pokers/hongzi/12.png" />
+      <FilePathData Path="res/images/game/pokers/hongzi/13.png" />
+      <FilePathData Path="res/images/game/pokers/hongzi/14.png" />
+      <FilePathData Path="res/images/game/pokers/hongzi/16.png" />
+      <FilePathData Path="res/images/game/pokers/hongzi/3.png" />
+      <FilePathData Path="res/images/game/pokers/hongzi/4.png" />
+      <FilePathData Path="res/images/game/pokers/hongzi/5.png" />
+      <FilePathData Path="res/images/game/pokers/hongzi/6.png" />
+      <FilePathData Path="res/images/game/pokers/hongzi/7.png" />
+      <FilePathData Path="res/images/game/pokers/hongzi/8.png" />
+      <FilePathData Path="res/images/game/pokers/hongzi/9.png" />
+      <FilePathData Path="res/images/game/pokers/wang/18.png" />
+      <FilePathData Path="res/images/game/pokers/hongzi/1.png" />
+      <FilePathData Path="res/images/game/pokers/hongzi/2.png" />
+      <FilePathData Path="res/images/game/pokers/heizi/1.png" />
+      <FilePathData Path="res/images/game/pokers/heizi/2.png" />
+      <FilePathData Path="res/images/game/pokers/yellowBg.png" />
+      <FilePathData Path="res/images/game/pokers/zhu.png" />
+      <FilePathData Path="res/images/game/pokers/wang/20.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

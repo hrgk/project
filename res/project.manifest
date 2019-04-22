@@ -1,0 +1,3046 @@
+{
+  "assets": {
+    "res/Particles/explosion.plist": {
+      "md5": "936d7a397420771c7c650d350b4ae660"
+    }, 
+    "res/Particles/fireline.plist": {
+      "md5": "77eede26365158c8f624ca3d69c72da0"
+    }, 
+    "res/animations/coscosbuyao/coscosbuyao.ExportJson": {
+      "md5": "8dd515cf41ca1c5f198a529286175f7b"
+    }, 
+    "res/animations/coscosbuyao/coscosbuyao0.plist": {
+      "md5": "23d5bcaebc67bf561946da6ecb37cd66"
+    }, 
+    "res/animations/coscosbuyao/coscosbuyao0.png": {
+      "md5": "95143fc64a4916632937dbf751981af2"
+    }, 
+    "res/animations/coscosbuzhang/coscosbuzhang.ExportJson": {
+      "md5": "abeb64b84334053800a59ec4fa0ca455"
+    }, 
+    "res/animations/coscosbuzhang/coscosbuzhang0.plist": {
+      "md5": "0cc7a8cf71211a5c69bad3c6e4e8823b"
+    }, 
+    "res/animations/coscosbuzhang/coscosbuzhang0.png": {
+      "md5": "f80b6a9df1e70b1b1e573279868ffd5a"
+    }, 
+    "res/animations/coscoschi/coscoschi.ExportJson": {
+      "md5": "8a7bea8d310049d4e8e1f9d9616ce268"
+    }, 
+    "res/animations/coscoschi/coscoschi0.plist": {
+      "md5": "e03433f8df6bbec0db2635a9d916979a"
+    }, 
+    "res/animations/coscoschi/coscoschi0.png": {
+      "md5": "5fc2a08fa93114a06f125325d3c285e5"
+    }, 
+    "res/animations/coscosdeyi/coscosdeyi.ExportJson": {
+      "md5": "af3cfdde8748631909823e437a0eef53"
+    }, 
+    "res/animations/coscosdeyi/coscosdeyi0.plist": {
+      "md5": "0400f615b058897c5b39cabd19102752"
+    }, 
+    "res/animations/coscosdeyi/coscosdeyi0.png": {
+      "md5": "5a5d61248e25228ab731e9ee6185458e"
+    }, 
+    "res/animations/coscosdeyi/coscosdeyi1.plist": {
+      "md5": "f4518ce7ed17257e540be66144a19c29"
+    }, 
+    "res/animations/coscosdeyi/coscosdeyi1.png": {
+      "md5": "7fc3008e46079ae6a0c88b33e911e57e"
+    }, 
+    "res/animations/coscosfenji/coscosfenji.ExportJson": {
+      "md5": "4fa348c36ce592c3dd1f593884266f58"
+    }, 
+    "res/animations/coscosfenji/coscosfenji0.plist": {
+      "md5": "357a15f627bcaa127b15c33571feaa11"
+    }, 
+    "res/animations/coscosfenji/coscosfenji0.png": {
+      "md5": "dac1fd4bb46e0273df82f6f72bfcad59"
+    }, 
+    "res/animations/coscosganbei/coscosganbei.ExportJson": {
+      "md5": "aa3888f4d80205a6e240c4dab668a756"
+    }, 
+    "res/animations/coscosganbei/coscosganbei0.plist": {
+      "md5": "7dbe89c54bfddb1810af6d1e4b3f1c1b"
+    }, 
+    "res/animations/coscosganbei/coscosganbei0.png": {
+      "md5": "70542dc915b7bc9c25284745f4672e7f"
+    }, 
+    "res/animations/coscosgang/coscosgang.ExportJson": {
+      "md5": "dadcb6e2186bf91e3798b5581e86c629"
+    }, 
+    "res/animations/coscosgang/coscosgang0.plist": {
+      "md5": "41f0466ae4e0d1383c28bc2e015ff9a7"
+    }, 
+    "res/animations/coscosgang/coscosgang0.png": {
+      "md5": "f08904d04aa37bdd70b4d27bd2751ae5"
+    }, 
+    "res/animations/coscosgouyao/coscosgouyao.ExportJson": {
+      "md5": "8823eeb0344dfe397c402611c2da6027"
+    }, 
+    "res/animations/coscosgouyao/coscosgouyao0.plist": {
+      "md5": "3a8054a0f791eac36d30f7591eaf455a"
+    }, 
+    "res/animations/coscosgouyao/coscosgouyao0.png": {
+      "md5": "8dce133c0c5c9de8ab89c64a7d37993b"
+    }, 
+    "res/animations/coscosguang/coscosguang.ExportJson": {
+      "md5": "b3dd98ee9ac34704a9e3f5f49a000873"
+    }, 
+    "res/animations/coscosguang/coscosguang0.plist": {
+      "md5": "df8e36051b45d1f25a3b7d123ae36e85"
+    }, 
+    "res/animations/coscosguang/coscosguang0.png": {
+      "md5": "6be981cb32ea93c3342383a8cb611ada"
+    }, 
+    "res/animations/coscoshongbao/coscoshongbao.ExportJson": {
+      "md5": "b6cdf4512bf2e90e586f2c6c4f601027"
+    }, 
+    "res/animations/coscoshongbao/coscoshongbao0.plist": {
+      "md5": "27e78cac788ac1f4e53bd2659cc4a662"
+    }, 
+    "res/animations/coscoshongbao/coscoshongbao0.png": {
+      "md5": "59f1204e24f0187f3ba07bbf89326cf5"
+    }, 
+    "res/animations/coscoshu2/coscoshu2.ExportJson": {
+      "md5": "fceada7a4f339b63121f46bfe885f976"
+    }, 
+    "res/animations/coscoshu2/coscoshu20.plist": {
+      "md5": "db4dc93ee203b4b9787f1501d8ee27e3"
+    }, 
+    "res/animations/coscoshu2/coscoshu20.png": {
+      "md5": "0baa63627c277779f3bb79cac0f14062"
+    }, 
+    "res/animations/coscosliandui/coscosliandui.ExportJson": {
+      "md5": "5b88dafb3ee2174790324e4de694afb5"
+    }, 
+    "res/animations/coscosliandui/coscosliandui0.plist": {
+      "md5": "543d86b2b2662c9f3b2ccfb77c87cbf7"
+    }, 
+    "res/animations/coscosliandui/coscosliandui0.png": {
+      "md5": "992b864ccc68b15589c0142e07756354"
+    }, 
+    "res/animations/coscosliwu2/coscosliwu2.ExportJson": {
+      "md5": "70b22bb45fe6506159a9b9044f6a7795"
+    }, 
+    "res/animations/coscosliwu2/coscosliwu20.plist": {
+      "md5": "ad14144c80e444d26ae9d5ba9e0d4eb7"
+    }, 
+    "res/animations/coscosliwu2/coscosliwu20.png": {
+      "md5": "fb1fddae70362abcb97d40f633203a19"
+    }, 
+    "res/animations/coscosloading/coscosloading.ExportJson": {
+      "md5": "d723a23152c8962c37a72820430a32ef"
+    }, 
+    "res/animations/coscosloading/coscosloading0.plist": {
+      "md5": "ca4cc2b137f05d4a9c5dd9f2d3c891dd"
+    }, 
+    "res/animations/coscosloading/coscosloading0.png": {
+      "md5": "146d51a52f56f92d014f6fee53243a0c"
+    }, 
+    "res/animations/coscosnaozhong/coscosnaozhong.ExportJson": {
+      "md5": "5f27acf110da11be405daa384e501a9c"
+    }, 
+    "res/animations/coscosnaozhong/coscosnaozhong0.plist": {
+      "md5": "ae3467e448a540ebe02fa37dbd70efd8"
+    }, 
+    "res/animations/coscosnaozhong/coscosnaozhong0.png": {
+      "md5": "646c050ac06c3637051438230f2a4c5d"
+    }, 
+    "res/animations/coscosniao/coscosniao.ExportJson": {
+      "md5": "19deb29125ef646bd9694189bb5211ac"
+    }, 
+    "res/animations/coscosniao/coscosniao0.plist": {
+      "md5": "4906d42eb60a51acf4f96923751d4039"
+    }, 
+    "res/animations/coscosniao/coscosniao0.png": {
+      "md5": "5013ab98f4a9846db86f9ec1af0b79f4"
+    }, 
+    "res/animations/coscospeng/coscospeng.ExportJson": {
+      "md5": "067ffb83e11924df87eae1f5f7fc1b77"
+    }, 
+    "res/animations/coscospeng/coscospeng0.plist": {
+      "md5": "860fc5f00672b23cadfdc2605bbda04d"
+    }, 
+    "res/animations/coscospeng/coscospeng0.png": {
+      "md5": "b4f3ca7328e92ab8afc56c170ba20025"
+    }, 
+    "res/animations/coscosqiangganghu/coscosqiangganghu.ExportJson": {
+      "md5": "ac8ce1da69930df6f9be1c06fe59c659"
+    }, 
+    "res/animations/coscosqiangganghu/coscosqiangganghu0.plist": {
+      "md5": "ec50997b8ef898d151053b22e5f97f4d"
+    }, 
+    "res/animations/coscosqiangganghu/coscosqiangganghu0.png": {
+      "md5": "85356ea51c7f8f509eff53ef9212bf81"
+    }, 
+    "res/animations/coscosqinzui/coscosqinzui.ExportJson": {
+      "md5": "dd846f3103795ff7d71a6ccaa6e1bd23"
+    }, 
+    "res/animations/coscosqinzui/coscosqinzui0.plist": {
+      "md5": "0d4dea671e834d18fa5aa70685c782e5"
+    }, 
+    "res/animations/coscosqinzui/coscosqinzui0.png": {
+      "md5": "8526beb2144ae39663bc29104bea1460"
+    }, 
+    "res/animations/coscosrenlei/coscosrenlei.ExportJson": {
+      "md5": "5ef987daf7e571f7fe2d8a1a8f8d5546"
+    }, 
+    "res/animations/coscosrenlei/coscosrenlei0.plist": {
+      "md5": "a7af7cfe4d00bd0a66d2cfd98d06cd6c"
+    }, 
+    "res/animations/coscosrenlei/coscosrenlei0.png": {
+      "md5": "d6601d27e16bd77ba9b7b1f2d26791d7"
+    }, 
+    "res/animations/coscossandaier/coscossandaier.ExportJson": {
+      "md5": "e5fef263e41bc974acbfa9c50a30496f"
+    }, 
+    "res/animations/coscossandaier/coscossandaier0.plist": {
+      "md5": "05d862e26670c44cfbde7c77bf543361"
+    }, 
+    "res/animations/coscossandaier/coscossandaier0.png": {
+      "md5": "4a793582c0e1ce9738313d7a99534c0c"
+    }, 
+    "res/animations/coscossandaiyi/coscossandaiyi.ExportJson": {
+      "md5": "b9478df0e08a958bbd3bea85e25da232"
+    }, 
+    "res/animations/coscossandaiyi/coscossandaiyi0.plist": {
+      "md5": "5f7f12aa3aefa31dc88c99b78edee306"
+    }, 
+    "res/animations/coscossandaiyi/coscossandaiyi0.png": {
+      "md5": "a3824ba2487533e0cd6b3da4c9dc9d28"
+    }, 
+    "res/animations/coscossunzi/coscossunzi.ExportJson": {
+      "md5": "2e95348cda52f21d7ecfdca21ff271d6"
+    }, 
+    "res/animations/coscossunzi/coscossunzi0.plist": {
+      "md5": "2e5d1491101d94ad48cb8ef4d598e431"
+    }, 
+    "res/animations/coscossunzi/coscossunzi0.png": {
+      "md5": "50f82d81cc587fcfa03f4e3fd430c464"
+    }, 
+    "res/animations/coscostouxiang/coscostouxiang.ExportJson": {
+      "md5": "6ace57dfb3dc0f91f5904d02c5d4a3e3"
+    }, 
+    "res/animations/coscostouxiang/coscostouxiang0.plist": {
+      "md5": "7ea35d6b4363f3ff08ebc4cabbf4f641"
+    }, 
+    "res/animations/coscostouxiang/coscostouxiang0.png": {
+      "md5": "1c86fd6af4d83b7388f859e046dcf673"
+    }, 
+    "res/animations/coscoswoxianchu/coscoswoxianchu.ExportJson": {
+      "md5": "e10ab08fd89ec67445d56ac7ff6c7811"
+    }, 
+    "res/animations/coscoswoxianchu/coscoswoxianchu0.plist": {
+      "md5": "f96158bedee66e086a607404bf712c8b"
+    }, 
+    "res/animations/coscoswoxianchu/coscoswoxianchu0.png": {
+      "md5": "4ec56f157476f264456161994092887b"
+    }, 
+    "res/animations/coscosxiaoheiwu/coscosxiaoheiwu.ExportJson": {
+      "md5": "592fda12f1a792865c7f0a61cf8c21d4"
+    }, 
+    "res/animations/coscosxiaoheiwu/coscosxiaoheiwu0.plist": {
+      "md5": "f0802b0e5419ed1dfeb67f0d137f2d93"
+    }, 
+    "res/animations/coscosxiaoheiwu/coscosxiaoheiwu0.png": {
+      "md5": "f57b8fa4047986095a1c8bc6fd36d6f2"
+    }, 
+    "res/animations/coscosyaobuqi/coscosyaobuqi.ExportJson": {
+      "md5": "da661835744b53f4d4c1206c4864d6f2"
+    }, 
+    "res/animations/coscosyaobuqi/coscosyaobuqi0.plist": {
+      "md5": "925e9fe9fe76315a74a20ce5834add85"
+    }, 
+    "res/animations/coscosyaobuqi/coscosyaobuqi0.png": {
+      "md5": "7968706e7c01af24541f7b392c7d405a"
+    }, 
+    "res/animations/coscoszhadang/coscoszhadang.ExportJson": {
+      "md5": "bd35a7ebda7da8b2881357ee8f4be470"
+    }, 
+    "res/animations/coscoszhadang/coscoszhadang0.plist": {
+      "md5": "ab4493cb992a5cbe1992c145342e7e0a"
+    }, 
+    "res/animations/coscoszhadang/coscoszhadang0.png": {
+      "md5": "0e2a17c97808ebaca2d2eac8347e0db2"
+    }, 
+    "res/animations/coscoszhongniao/coscoszhongniao.ExportJson": {
+      "md5": "fce79629c9b5058ed980009ce4085e82"
+    }, 
+    "res/animations/coscoszhongniao/coscoszhongniao0.plist": {
+      "md5": "a1130fd15c142d0da2b19c8b327edd0b"
+    }, 
+    "res/animations/coscoszhongniao/coscoszhongniao0.png": {
+      "md5": "8a59f497a656d50f2556e09827b7bfa9"
+    }, 
+    "res/animations/coscoszhuandong/coscoszhuandong.ExportJson": {
+      "md5": "926f20717da7ad8ff13ef6b0569e930d"
+    }, 
+    "res/animations/coscoszhuandong/coscoszhuandong0.plist": {
+      "md5": "d9f0a05dd5374a687133d067918b2b0b"
+    }, 
+    "res/animations/coscoszhuandong/coscoszhuandong0.png": {
+      "md5": "159a5a04ad720a8d952e40f79df03642"
+    }, 
+    "res/animations/coscoszhuanzhuan/coscoszhuanzhuan.ExportJson": {
+      "md5": "7331a049ef3f57762ee52f3b3e872716"
+    }, 
+    "res/animations/coscoszhuanzhuan/coscoszhuanzhuan0.plist": {
+      "md5": "3cc8b5f7dd08087b9a02dc444eafff48"
+    }, 
+    "res/animations/coscoszhuanzhuan/coscoszhuanzhuan0.png": {
+      "md5": "1eb955668dc833d9a6773f227cb0fb9e"
+    }, 
+    "res/animations/coscoszimo/coscoszimo.ExportJson": {
+      "md5": "9d39af3be46091a877ba2a87452e239b"
+    }, 
+    "res/animations/coscoszimo/coscoszimo0.plist": {
+      "md5": "077393199f000fcc6aa21ad460acac99"
+    }, 
+    "res/animations/coscoszimo/coscoszimo0.png": {
+      "md5": "2205b2b629e58d4c5eae6b98c4f05f6b"
+    }, 
+    "res/fonts/DFYuanW7-GB2312.ttf": {
+      "md5": "9923032c1b07237a1ab65dc446ea0e0e"
+    }, 
+    "res/fonts/gray_score.fnt": {
+      "md5": "8b546a27e30c78332357f6b78eb38af4"
+    }, 
+    "res/fonts/gray_score.png": {
+      "md5": "4b0bbbbf96e549c9e8e9d090316a6184"
+    }, 
+    "res/fonts/time.fnt": {
+      "md5": "2ee0fa90ea2814566ace104bd31f13d5"
+    }, 
+    "res/fonts/time.png": {
+      "md5": "080a1fea76c925ddf2e05d5774b2e4f1"
+    }, 
+    "res/fonts/win_score.fnt": {
+      "md5": "0ee04b615ceea4a18d3e85be4acb7269"
+    }, 
+    "res/fonts/win_score.png": {
+      "md5": "9727270c43113afdae1a1ec449f1f675"
+    }, 
+    "res/framework32.zip": {
+      "md5": "2738cf3ea81ad5bdede63ef9cbe6597e"
+    }, 
+    "res/framework64.zip": {
+      "md5": "194fdd36e189cf9e29152932628705bc"
+    }, 
+    "res/loader32.zip": {
+      "md5": "c49ff8a62f2a1520c3d6408378d34a9d"
+    }, 
+    "res/loader64.zip": {
+      "md5": "c0b93203dd30ac513cfa374e9a2c3e0e"
+    }, 
+    "res/project.manifest": {
+      "md5": "e50a4a9675dcd147934bab5fbf8190c4"
+    }, 
+    "res/res/images/common/arrow-return.png": {
+      "md5": "7904de0be709f591c19c8e0136e2ba92"
+    }, 
+    "res/res/images/common/avatar_border.png": {
+      "md5": "8641ff67b6e4dcae2d2e9302b11c4772"
+    }, 
+    "res/res/images/common/bg1.png": {
+      "md5": "c3e7a41d8d5edf534c1c17f71722ad59"
+    }, 
+    "res/res/images/common/bg2.png": {
+      "md5": "87a940cbbcba9289ed886bce006dca2f"
+    }, 
+    "res/res/images/common/bg_1108.png": {
+      "md5": "63a5d43218c78a5a5229b3d81333a0e8"
+    }, 
+    "res/res/images/common/bg_540.png": {
+      "md5": "831c99377ea9ca299f8722e8acce72e9"
+    }, 
+    "res/res/images/common/bg_864.png": {
+      "md5": "2d67534767fabf2e41ace9d7616ed9d6"
+    }, 
+    "res/res/images/common/btn_close.png": {
+      "md5": "ea7030524811a939b2735c8af407b106"
+    }, 
+    "res/res/images/common/btn_queding.png": {
+      "md5": "0ac1856d04d0ddc4c6443095ff847498"
+    }, 
+    "res/res/images/common/btn_quxiao.png": {
+      "md5": "e3ca68fb1d03317b680c28a5e1257df7"
+    }, 
+    "res/res/images/common/douzi.png": {
+      "md5": "efab4f20a74259436a4b973f5770033e"
+    }, 
+    "res/res/images/common/fenxiang.png": {
+      "md5": "eb7bde83e7964d89b2a5db1f1a456d67"
+    }, 
+    "res/res/images/common/fuzhi_btn.png": {
+      "md5": "2714c290c7ecd0466958d9348982e11b"
+    }, 
+    "res/res/images/common/kefu_title.png": {
+      "md5": "78e795fdaae269619fdd2138ce031b6c"
+    }, 
+    "res/res/images/common/sex_female.png": {
+      "md5": "b96f0748b9a77174470421db68d2fc0e"
+    }, 
+    "res/res/images/common/sex_male.png": {
+      "md5": "94497bdec416524df20928d80ceb7aab"
+    }, 
+    "res/res/images/common/small_back.png": {
+      "md5": "159d80922a8935d0b9d05eac9919047a"
+    }, 
+    "res/res/images/common/tipsbg.png": {
+      "md5": "60b39cccd9723d2c54a784eb859730a7"
+    }, 
+    "res/res/images/common/title_tishi.png": {
+      "md5": "675769380b7ab25e3181fca033ad105a"
+    }, 
+    "res/res/images/common/zuanshi.png": {
+      "md5": "0dc8808a72d4770660d6bba500a8732e"
+    }, 
+    "res/res/images/common/zuanshi_bg.png": {
+      "md5": "4d9db060d639191342a1ef71616726f9"
+    }, 
+    "res/res/images/createRoom/btn_pdk_n.png": {
+      "md5": "324435de9e82ccd42e2cc2070749587f"
+    }, 
+    "res/res/images/createRoom/btn_pdk_o.png": {
+      "md5": "66db250ffa0c544362b1d703d6746156"
+    }, 
+    "res/res/images/createRoom/btn_ph_n.png": {
+      "md5": "4e4a538d01ddf470bbc1584fbbab7823"
+    }, 
+    "res/res/images/createRoom/btn_ph_o.png": {
+      "md5": "7c6d220dadb3ed762f4198aea7554d9f"
+    }, 
+    "res/res/images/createRoom/btn_xiugaiwanfa.png": {
+      "md5": "62b8131c166d2f1f6bcfed6f58864daa"
+    }, 
+    "res/res/images/createRoom/btn_zzmj_n.png": {
+      "md5": "fc01ce26feaf5308b99f9b2ba29d6253"
+    }, 
+    "res/res/images/createRoom/btn_zzmj_o.png": {
+      "md5": "f635d8023d1f996f72ab9f440d37af98"
+    }, 
+    "res/res/images/createRoom/creaetroom_10.png": {
+      "md5": "447ee03f635ea60c5f9a48aea9c8ef44"
+    }, 
+    "res/res/images/createRoom/createButton.png": {
+      "md5": "5b96dd06774db62a3621ee90892f8a1d"
+    }, 
+    "res/res/images/createRoom/fengexian.png": {
+      "md5": "5ffc3c171b5c20d12caff4bd8e286f30"
+    }, 
+    "res/res/images/createRoom/ganghou.png": {
+      "md5": "53d421bf79eb281277c76aac1b74d43e"
+    }, 
+    "res/res/images/createRoom/gou.png": {
+      "md5": "7e47ac25d4f2823f48765dbd48a1dd56"
+    }, 
+    "res/res/images/createRoom/jushu.png": {
+      "md5": "9397ce710b2a07ca6fcb4479316facb0"
+    }, 
+    "res/res/images/createRoom/keSelected.png": {
+      "md5": "834bb4445f3a2d264e2c6fdaf8dc9cc8"
+    }, 
+    "res/res/images/createRoom/noKeSelected.png": {
+      "md5": "ffe6fd541ba5caf31e94643af551f0fa"
+    }, 
+    "res/res/images/createRoom/noSelected.png": {
+      "md5": "afe35769311e29339c3cedd1c581f6aa"
+    }, 
+    "res/res/images/createRoom/selected.png": {
+      "md5": "429801a4dca7ef6ca6e16a73f254f646"
+    }, 
+    "res/res/images/createRoom/title_xiugaiwanfa.png": {
+      "md5": "1c56174cf2ec507346401f1dd60cf46b"
+    }, 
+    "res/res/images/createRoom/wanfa.png": {
+      "md5": "c946aa5a6d86cc38a03cc9897b8224db"
+    }, 
+    "res/res/images/createRoom/zhongniao.png": {
+      "md5": "c841f2cb3ee6ac24d75b664f3a859d30"
+    }, 
+    "res/res/images/createRoom/zhuaniao.png": {
+      "md5": "9338dcec258a7d13978347c7262e36c5"
+    }, 
+    "res/res/images/daTingRank/btn_rankGz.png": {
+      "md5": "cb2c9814ee543253ea564f019989ac8c"
+    }, 
+    "res/res/images/daTingRank/rankS_bg.png": {
+      "md5": "106accf1b4850f68fc2b02c645df9f91"
+    }, 
+    "res/res/images/daTingRank/rank_bg.png": {
+      "md5": "6147cb5527a1b87926258fe0012f1967"
+    }, 
+    "res/res/images/daTingRank/selfRank_bg.png": {
+      "md5": "174a6e8c17bdb5211e455ec896c5e889"
+    }, 
+    "res/res/images/daTingRank/todayRank_n.png": {
+      "md5": "b82391e821096c96417ba0a0a91cd814"
+    }, 
+    "res/res/images/daTingRank/todayRank_o.png": {
+      "md5": "2d3439b3ec96b5e5a0d7b288580ebd5e"
+    }, 
+    "res/res/images/daTingRank/weekRank_n.png": {
+      "md5": "c74c74771495f4b6e75e8a07812f4dab"
+    }, 
+    "res/res/images/daTingRank/weekRank_o.png": {
+      "md5": "d08873e818da468277ae1384bf934316"
+    }, 
+    "res/res/images/dating/bg.png": {
+      "md5": "810d87e8fc9c1d1c729e35481e854d9a"
+    }, 
+    "res/res/images/dating/btn_cjfj.png": {
+      "md5": "7ddd86a1f1243a9459c56b4bd3c3ce46"
+    }, 
+    "res/res/images/dating/btn_fx.png": {
+      "md5": "9f73397924e49146dd83179b13252bee"
+    }, 
+    "res/res/images/dating/btn_gz.png": {
+      "md5": "b62c0b5cfff685f0b7c8f33de1b04439"
+    }, 
+    "res/res/images/dating/btn_hd.png": {
+      "md5": "978ce978c7276a67324817212d4da77e"
+    }, 
+    "res/res/images/dating/btn_jlb.png": {
+      "md5": "d625f727b6398e66e458bc86241f0f17"
+    }, 
+    "res/res/images/dating/btn_jrfj.png.png": {
+      "md5": "467501abda9811995c6e090027b622a4"
+    }, 
+    "res/res/images/dating/btn_kf.png": {
+      "md5": "bf298c724437d5302d41594f6b12e279"
+    }, 
+    "res/res/images/dating/btn_msg.png": {
+      "md5": "632fd0f80de4dbf74364b9cf39b0ec4b"
+    }, 
+    "res/res/images/dating/btn_shop.png": {
+      "md5": "7edaa5c4bf5516a76923d317a23aff1e"
+    }, 
+    "res/res/images/dating/btn_sz.png": {
+      "md5": "c81ced31be464e5058eb9925c2901d54"
+    }, 
+    "res/res/images/dating/btn_zj.png": {
+      "md5": "439eaab5559d12dbf34e7b43c43c0edc"
+    }, 
+    "res/res/images/dating/down_bg.png": {
+      "md5": "5aad2aadabd45eb107edecf4406c9734"
+    }, 
+    "res/res/images/dating/gonggaoTitle.png": {
+      "md5": "5e880695302cf8d65604229c858c7e07"
+    }, 
+    "res/res/images/dating/gonggaobg.png": {
+      "md5": "ec8d4f28442ed439349363b546fe5122"
+    }, 
+    "res/res/images/dating/up_bg.png": {
+      "md5": "be05ef7e6fb15965b17c035d93293ee1"
+    }, 
+    "res/res/images/dating/xiadi.png": {
+      "md5": "75d0a23fb33b6991e139a89e49969cd7"
+    }, 
+    "res/res/images/dingwei/sanren.png": {
+      "md5": "0e7a1c8ae29ff094723843994273b468"
+    }, 
+    "res/res/images/dingwei/siren.png": {
+      "md5": "d283a3c3babdbba57d3b901a4a9a2e6e"
+    }, 
+    "res/res/images/dingwei/title.png": {
+      "md5": "60d1fbfb4c035f0c03648b1a719abfef"
+    }, 
+    "res/res/images/game/bg.png": {
+      "md5": "e2a9729fc0fa338dbb9215a2d2c7cdc8"
+    }, 
+    "res/res/images/game/btn_dingwei.png": {
+      "md5": "3a334c3b89573a64f537a9084d60c1a8"
+    }, 
+    "res/res/images/game/btn_dingwei_jiesan.png": {
+      "md5": "d38a4d2670bc6bbafc29f164e549a01f"
+    }, 
+    "res/res/images/game/btn_luyin.png": {
+      "md5": "fe2a1f3d3ea3626a5c1dea38787081fd"
+    }, 
+    "res/res/images/game/btn_outRoom.png": {
+      "md5": "0ff701ab1349a6f60d3a420b4f9d4fb5"
+    }, 
+    "res/res/images/game/btn_ready.png": {
+      "md5": "fc92c6eda546d2ea2ab2114b2ed4d646"
+    }, 
+    "res/res/images/game/btn_shezhi.png": {
+      "md5": "fbfbebf59da1d692276c558176b86886"
+    }, 
+    "res/res/images/game/btn_unReady.png": {
+      "md5": "4048d2e240e5d835c0141d7b4904b68e"
+    }, 
+    "res/res/images/game/button_agree.png": {
+      "md5": "c67a205c62290128987cf6a0b66ea6f5"
+    }, 
+    "res/res/images/game/button_dismiss.png": {
+      "md5": "f8dd6302c203b069a0d0ce02fafcb0c0"
+    }, 
+    "res/res/images/game/button_dismiss2.png": {
+      "md5": "adf1d332e2bc23bbdf03c97436224a7e"
+    }, 
+    "res/res/images/game/button_invite_weixin.png": {
+      "md5": "4b0c19b30a05d4d267debe4e31ee7358"
+    }, 
+    "res/res/images/game/button_playagain.png": {
+      "md5": "9211e941ef2b6474e6b0be23c12c25e6"
+    }, 
+    "res/res/images/game/button_refuse.png": {
+      "md5": "f38c776b58525a200b97cb2906ef0691"
+    }, 
+    "res/res/images/game/card.plist": {
+      "md5": "adb2657295b9048b4bbd261bc40d731e"
+    }, 
+    "res/res/images/game/card.png": {
+      "md5": "28c0cc9c81ec7e9aab065f3e8991823a"
+    }, 
+    "res/res/images/game/chupai.png": {
+      "md5": "9999cc1ea658487627266257485a11eb"
+    }, 
+    "res/res/images/game/flag_zhuang.png": {
+      "md5": "8b966966e7938eae667598b143c5b758"
+    }, 
+    "res/res/images/game/game_btn_again.png": {
+      "md5": "e1e3ef3b0ba49be56deac473cbd915a5"
+    }, 
+    "res/res/images/game/game_btn_tuichu.png": {
+      "md5": "dff3bf4fcdd0a4cad3aa674aa5892410"
+    }, 
+    "res/res/images/game/game_btn_zongchengji.png": {
+      "md5": "b36aa2c00ce3379bb10951b9fe58d2b2"
+    }, 
+    "res/res/images/game/gold.png": {
+      "md5": "c9abc1759326de0709e73606040c3b85"
+    }, 
+    "res/res/images/game/gold_bg.png": {
+      "md5": "b190681ed5f739b3f908a19485456a62"
+    }, 
+    "res/res/images/game/huangse.png": {
+      "md5": "49d2b4dbf72c617effc93583ea3039b3"
+    }, 
+    "res/res/images/game/liangPai.png": {
+      "md5": "655955e31fa773984c6fecb03e60df53"
+    }, 
+    "res/res/images/game/poker_bg.png": {
+      "md5": "1da6c2b0e18836facfa5df3d15d27c2c"
+    }, 
+    "res/res/images/game/pokers.plist": {
+      "md5": "df3e91059f01afc034291a521aba4384"
+    }, 
+    "res/res/images/game/pokers.png": {
+      "md5": "35af751950163c74338ca54d5ad78069"
+    }, 
+    "res/res/images/game/progress_record_voice.png": {
+      "md5": "31ee7659910de34b90a0b0767030b3cf"
+    }, 
+    "res/res/images/game/progress_record_voice_bg.png": {
+      "md5": "1e69486ef6e0a038613e1125e2d5a9e0"
+    }, 
+    "res/res/images/game/readyFlag.png": {
+      "md5": "623703799b4c0db1dccc0d1ea60bbb18"
+    }, 
+    "res/res/images/game/record_voice_bg.png": {
+      "md5": "795ab967ceb65344995eab28efce9e48"
+    }, 
+    "res/res/images/game/tishi.png": {
+      "md5": "1e95679a57eeab10c8511cbcf6c069f1"
+    }, 
+    "res/res/images/game/xianshou410.png": {
+      "md5": "e7109e03edcb819de6b7dea2e72bcaa1"
+    }, 
+    "res/res/images/game/xianshou411.png": {
+      "md5": "a133f3d2affafd577d6bd3a6a96fd3a4"
+    }, 
+    "res/res/images/game/xianshou412.png": {
+      "md5": "476417a08d77918bacbfb641d12ec163"
+    }, 
+    "res/res/images/game/xianshou413.png": {
+      "md5": "bc537e917be9dad0d3f0ec5036f58a3e"
+    }, 
+    "res/res/images/game/xianshou414.png": {
+      "md5": "a25858518f3e3cab52a3bdeaf93976dc"
+    }, 
+    "res/res/images/gameOver/btn_fenxiang.png": {
+      "md5": "e9a9c6fec75fa4ce7733802f21052a05"
+    }, 
+    "res/res/images/gameOver/fangzhu.png": {
+      "md5": "e73fc493e2cb86c19fc3d6b691ade9dd"
+    }, 
+    "res/res/images/gameOver/sp_dayingjia.png": {
+      "md5": "3bed217723e784587d98c2c2bd38b553"
+    }, 
+    "res/res/images/gameOver/sp_dianpaowang.png": {
+      "md5": "3d521b6b56c03b7545b85621ad464978"
+    }, 
+    "res/res/images/gameOver/sp_loseback.png": {
+      "md5": "0db4d1dac0ae7961e4e1a25b35019b07"
+    }, 
+    "res/res/images/gameOver/sp_winback.png": {
+      "md5": "6160dc8d58315ad25fead2ce04c50f0b"
+    }, 
+    "res/res/images/gameOver/txtBack.png": {
+      "md5": "fc9c0c6d19c75ac126baa22e9e7b559a"
+    }, 
+    "res/res/images/gameOver/zongjiesuanbg.png": {
+      "md5": "31597becb917c6c3e8f1133c8ef1057e"
+    }, 
+    "res/res/images/joinRoom/0.png": {
+      "md5": "39184b579be68657738f42be1d8aa221"
+    }, 
+    "res/res/images/joinRoom/1.png": {
+      "md5": "922d5786d8c8ae90861b7dbe74ea490a"
+    }, 
+    "res/res/images/joinRoom/2.png": {
+      "md5": "094ec089ae2c61220dd3cfd2f1600b4c"
+    }, 
+    "res/res/images/joinRoom/3.png": {
+      "md5": "2792159bd10f1ab5507d3f3fc9e4230e"
+    }, 
+    "res/res/images/joinRoom/4.png": {
+      "md5": "0ab85a555f421ab5b3546d43059ae05a"
+    }, 
+    "res/res/images/joinRoom/5.png": {
+      "md5": "b2a54507eb9e91b7a4253844d6618bc3"
+    }, 
+    "res/res/images/joinRoom/6.png": {
+      "md5": "18035622f67ae68ec051ae1c5767e39b"
+    }, 
+    "res/res/images/joinRoom/7.png": {
+      "md5": "c931c4e84f4f2d72051d37325bcf4441"
+    }, 
+    "res/res/images/joinRoom/8.png": {
+      "md5": "83db4750b55fea6c8ddb36c4b6dab257"
+    }, 
+    "res/res/images/joinRoom/9.png": {
+      "md5": "6494c9023c15c6146559146effc8dae8"
+    }, 
+    "res/res/images/joinRoom/back_number.png": {
+      "md5": "6d9f01605a3cc9522100c0931fc085d0"
+    }, 
+    "res/res/images/joinRoom/delete.png": {
+      "md5": "f9930993b79cf3fe22d468e8e28ede62"
+    }, 
+    "res/res/images/joinRoom/reinsert.png": {
+      "md5": "816b297d85b8720638a58c06d269d84a"
+    }, 
+    "res/res/images/joinRoom/title_code.png": {
+      "md5": "ba7899c32ebbbaaa513761dbc6e68937"
+    }, 
+    "res/res/images/joinRoom/title_joinroom.png": {
+      "md5": "3814c5fd92ef7b9b2f23ebe63e1959fa"
+    }, 
+    "res/res/images/joinRoom/title_julebu.png": {
+      "md5": "567afee13f34674ea75b7a1b1b9b9a17"
+    }, 
+    "res/res/images/julebu/bg.png": {
+      "md5": "f74257fc05fd002ab17a8ae02cfe9d64"
+    }, 
+    "res/res/images/julebu/btn_addClub.png": {
+      "md5": "a716adf777499cedce3340076e1f780b"
+    }, 
+    "res/res/images/julebu/btn_addMenber.png": {
+      "md5": "76bb67dce5ff235273195e2fbeb370ef"
+    }, 
+    "res/res/images/julebu/btn_agree.png": {
+      "md5": "f32b1b4c90647aea3428329daf0aef90"
+    }, 
+    "res/res/images/julebu/btn_beizhu.png": {
+      "md5": "0caed06aad2723ae87fdb4eb106b5f77"
+    }, 
+    "res/res/images/julebu/btn_createClub.png": {
+      "md5": "1a6077c5ac1693e0a1de34cadde94c8d"
+    }, 
+    "res/res/images/julebu/btn_enter.png": {
+      "md5": "c57c74a361c71d87baab7d4f454f5b81"
+    }, 
+    "res/res/images/julebu/btn_fenxiang.png": {
+      "md5": "fa7627711ba88be4302af8cd6fcce9c8"
+    }, 
+    "res/res/images/julebu/btn_guanLi.png": {
+      "md5": "550830b69106c30af9c4e3b00ddb489e"
+    }, 
+    "res/res/images/julebu/btn_jieSan.png": {
+      "md5": "036b4411a98f15517e19f221861f323f"
+    }, 
+    "res/res/images/julebu/btn_menber.png": {
+      "md5": "ac11b11493222c779b059557fe17632f"
+    }, 
+    "res/res/images/julebu/btn_qingkong.png": {
+      "md5": "ccc7b04425e3296b8d546fa9e5f5b6b7"
+    }, 
+    "res/res/images/julebu/btn_quickAdd.png": {
+      "md5": "8f9e935c9626a176071596c17aca9758"
+    }, 
+    "res/res/images/julebu/btn_reject.png": {
+      "md5": "a9b705274a8dc77c2875b6cd7df65eff"
+    }, 
+    "res/res/images/julebu/btn_shenqing.png": {
+      "md5": "4cc3827780af79d06f21b4df95b04452"
+    }, 
+    "res/res/images/julebu/btn_tichu.png": {
+      "md5": "edacb6a917ac633c6ece116d98599c6b"
+    }, 
+    "res/res/images/julebu/btn_xiala.png": {
+      "md5": "dd0f7e42b2ca2c63e4a12c51d6014508"
+    }, 
+    "res/res/images/julebu/btn_yaoqingchengyuan.png": {
+      "md5": "6d768a8c9f5ae9f6581cab4c7941a2cb"
+    }, 
+    "res/res/images/julebu/btn_yjqk.png": {
+      "md5": "61361491d251ab28695a5b9762049756"
+    }, 
+    "res/res/images/julebu/btn_zhanji.png": {
+      "md5": "2c915834fa09dbb0b021b266ac81ca80"
+    }, 
+    "res/res/images/julebu/chengyuanInHao.png": {
+      "md5": "f046a6c66c97becff36211cef27e2511"
+    }, 
+    "res/res/images/julebu/clubList_bg.png": {
+      "md5": "70fc39dd9c40b661a496f415defd9073"
+    }, 
+    "res/res/images/julebu/clubList_bg2.png": {
+      "md5": "e69beb4bdf6c89ffd04bf87d9656b994"
+    }, 
+    "res/res/images/julebu/createClubItembg.png": {
+      "md5": "4963966071f8986c1d07afdb891d2e83"
+    }, 
+    "res/res/images/julebu/dayingjia_bg.png": {
+      "md5": "f328a857db19a64a068ddae8d8b3b267"
+    }, 
+    "res/res/images/julebu/dayingjia_n.png": {
+      "md5": "2bd49ae6ae5d7a237f8cf7d3cb0f76b7"
+    }, 
+    "res/res/images/julebu/dayingjia_o.png": {
+      "md5": "866eb4896c577785d64adad097ecf1ae"
+    }, 
+    "res/res/images/julebu/julebuzj_n.png": {
+      "md5": "2e6013f7b08833afc731f54743afc65f"
+    }, 
+    "res/res/images/julebu/julebuzj_o.png": {
+      "md5": "fd880f5855539cd290a4dab23e8286d0"
+    }, 
+    "res/res/images/julebu/leftWord_bg.png": {
+      "md5": "51f3719ea03fe562c4376fda006c7dc9"
+    }, 
+    "res/res/images/julebu/left_bg.png": {
+      "md5": "e268b814403a46e27a89b9f7b6164b29"
+    }, 
+    "res/res/images/julebu/menberItembg.png": {
+      "md5": "54434bfe64e4a0033a9e99ad8102c12b"
+    }, 
+    "res/res/images/julebu/menberinput_bg.png": {
+      "md5": "d7c8b76eced13966933f0a0cfec7c715"
+    }, 
+    "res/res/images/julebu/myzj_n.png": {
+      "md5": "0615736f0cfbce31b45c0eafeffa927b"
+    }, 
+    "res/res/images/julebu/myzj_o.png": {
+      "md5": "28ceac9788b2a2c8ecaa0ee11505ea4f"
+    }, 
+    "res/res/images/julebu/sp_gaming.png": {
+      "md5": "151d0352aa49d85bdc183a6720f6e3a2"
+    }, 
+    "res/res/images/julebu/sp_gonggaobg.png": {
+      "md5": "3ad9778e22e15306e39908d024e39ba7"
+    }, 
+    "res/res/images/julebu/sp_ide.png": {
+      "md5": "6fa8df0b9471abddfe7f399631875057"
+    }, 
+    "res/res/images/julebu/sp_roomNuberbg.png": {
+      "md5": "392f16a2d9f9462b5aebb47dd2bcddcf"
+    }, 
+    "res/res/images/julebu/sp_zhuozi.png": {
+      "md5": "87a0905159fabcedf5d92ac9520d9ec7"
+    }, 
+    "res/res/images/julebu/title.png": {
+      "md5": "bef26e878ef9ef041c079f2b71afbbef"
+    }, 
+    "res/res/images/julebu/title_bg.png": {
+      "md5": "48b95e059aaca5d7ede47bc714ea8dca"
+    }, 
+    "res/res/images/julebu/title_shenqing.png": {
+      "md5": "bffc78ed3752157359b86bd5d7702ece"
+    }, 
+    "res/res/images/julebu/word_guanLi.png": {
+      "md5": "d3d70dfeae9fbe6a84f1f7a4b089db4d"
+    }, 
+    "res/res/images/julebu/word_menber.png": {
+      "md5": "b437a1b0567b501b7cb69ce24261ca90"
+    }, 
+    "res/res/images/julebu/zhanji_bg.png": {
+      "md5": "1bd867fe55c613535b9c0fb2ef36e8d6"
+    }, 
+    "res/res/images/julebu/zj_title.png": {
+      "md5": "41f83b520b89e38aafd5b4f083136fc1"
+    }, 
+    "res/res/images/loadScene/button_guest.png": {
+      "md5": "d52455ad696b983c7e0e51d0d28d943f"
+    }, 
+    "res/res/images/loadScene/loading_bg.png": {
+      "md5": "c1032e66b0a7783ad47388a015371a8b"
+    }, 
+    "res/res/images/loadScene/loading_down.png": {
+      "md5": "e80fef91c00d3c74bc740b0205c324a5"
+    }, 
+    "res/res/images/loadScene/logo2.png": {
+      "md5": "659402cd38cef3808e4fe56a435387ab"
+    }, 
+    "res/res/images/loadScene/progress.png": {
+      "md5": "3762a4b1fce18694c1b8a13b559046db"
+    }, 
+    "res/res/images/loadScene/progress_bg.png": {
+      "md5": "69262636a055f0b119f2952394a7465d"
+    }, 
+    "res/res/images/loadScene/weiXinLogin.png": {
+      "md5": "8f1b90c9ea9ab21d2aa3ebd0d662b77f"
+    }, 
+    "res/res/images/majiang/actionBuYao.png": {
+      "md5": "ffe738e8fb86938b3ac215b44d30b81c"
+    }, 
+    "res/res/images/majiang/actionChi.png": {
+      "md5": "fc18495e0070e8bafd47425001f15939"
+    }, 
+    "res/res/images/majiang/actionGang.png": {
+      "md5": "1b138a1b336a4f1afcd7c68f85279f72"
+    }, 
+    "res/res/images/majiang/actionGuo.png": {
+      "md5": "1879d5eb53d294a351defedf8477f8a8"
+    }, 
+    "res/res/images/majiang/actionHu.png": {
+      "md5": "dcacc57910891631b8865574e812ca2c"
+    }, 
+    "res/res/images/majiang/actionPeng.png": {
+      "md5": "3cb6a7f94ac91eefcdf0b918af95b59a"
+    }, 
+    "res/res/images/majiang/actionYao.png": {
+      "md5": "e5d24cf802c90d0d788531b87894b156"
+    }, 
+    "res/res/images/majiang/bg.png": {
+      "md5": "b778e8e4b4af120c64fc16806c06cd01"
+    }, 
+    "res/res/images/majiang/fangWeiBei.png": {
+      "md5": "8e70e12f10a23ec03e5eb1fa476acc7b"
+    }, 
+    "res/res/images/majiang/fangWeiBg.png": {
+      "md5": "71808ce2dbe340eff4e60cbce38d228f"
+    }, 
+    "res/res/images/majiang/fangWeiDong.png": {
+      "md5": "e3e7c7edcc97da68cc55654ecb475c1b"
+    }, 
+    "res/res/images/majiang/fangWeiNan.png": {
+      "md5": "0004d8dc3f28c128dc941044d1352ecf"
+    }, 
+    "res/res/images/majiang/fangWeiQiu.png": {
+      "md5": "b57681d759a34adaa2f138610d557816"
+    }, 
+    "res/res/images/majiang/fangWeiXi.png": {
+      "md5": "cd5c77730bb81ea94bbe0f13928351d4"
+    }, 
+    "res/res/images/majiang/majiang.plist": {
+      "md5": "b01819e5deeae80ba68fd2fa1510ecdb"
+    }, 
+    "res/res/images/majiang/majiang.png": {
+      "md5": "df7f38ea95e84461a6f0f5c1e02cee70"
+    }, 
+    "res/res/images/majiang/roundOver/defen_lose.png": {
+      "md5": "a9fa16e6e23337bbc85a03362c130318"
+    }, 
+    "res/res/images/majiang/roundOver/defen_win.png": {
+      "md5": "ecc325d3ebc001ea2e496e4b4b83576c"
+    }, 
+    "res/res/images/majiang/roundOver/dianpao.png": {
+      "md5": "b0abff1e18e0185ad29fb3725114b3a9"
+    }, 
+    "res/res/images/majiang/roundOver/jiesuan_title.png": {
+      "md5": "0ba0b4637d079e5c4f7cc54f0561e3cb"
+    }, 
+    "res/res/images/majiang/roundOver/paohu.png": {
+      "md5": "dde664db050aab14f1cd32d1ca1e88b3"
+    }, 
+    "res/res/images/majiang/roundOver/roundOverDi.png": {
+      "md5": "387884bd4444fb7bfcb1551c995a3ad8"
+    }, 
+    "res/res/images/majiang/roundOver/zhongniaole.png": {
+      "md5": "876bed161aa9fb783289b63c099bb36a"
+    }, 
+    "res/res/images/majiang/roundOver/zimo.png": {
+      "md5": "012fe20d9c90b6dbba53dab4fc173848"
+    }, 
+    "res/res/images/majiang/table_up.png": {
+      "md5": "83d0c9a740077b67b49bfcb302509573"
+    }, 
+    "res/res/images/niuniu/bg.png": {
+      "md5": "aa33b7673f1e446f7fd638e6f0bfb737"
+    }, 
+    "res/res/images/niuniu/logo.png": {
+      "md5": "4175a8759b5ab1ada734fc3b781ebb35"
+    }, 
+    "res/res/images/niuniu/niu1.png": {
+      "md5": "78da88de8201ccd8c1d587433a1d5cdb"
+    }, 
+    "res/res/images/niuniu/xiazhu_di.png": {
+      "md5": "ed2332fb8728426880f6bc3678ce913a"
+    }, 
+    "res/res/images/paodekuai/game/logo.png": {
+      "md5": "837295229b098e07c527a7a7b18c45fe"
+    }, 
+    "res/res/images/paodekuai/game/time_bg.png": {
+      "md5": "625580c89995a2eaeea5a4ac34ca7359"
+    }, 
+    "res/res/images/paodekuai/game/xianshou.png": {
+      "md5": "f3929c7fe033b648bb7892470d84ebcb"
+    }, 
+    "res/res/images/paodekuai/roundOver/btn_zongJieSun.png": {
+      "md5": "3134257a039d163467030be561591fd9"
+    }, 
+    "res/res/images/paodekuai/roundOver/jifen.png": {
+      "md5": "d6cdf7c58ef1d5a5ab691df137ba3c6c"
+    }, 
+    "res/res/images/paodekuai/roundOver/jixuyouxi.png": {
+      "md5": "51a7ac592faa1c68a613770d469d351e"
+    }, 
+    "res/res/images/paodekuai/roundOver/nick.png": {
+      "md5": "0cf07354aa06e18706d7e6006318c7eb"
+    }, 
+    "res/res/images/paodekuai/roundOver/roundOver_back.png": {
+      "md5": "d3040af798636365b334e50fb1fdf348"
+    }, 
+    "res/res/images/paodekuai/roundOver/shengli.png": {
+      "md5": "b6a5b872cc6ebfea8cfb771206bf8a5f"
+    }, 
+    "res/res/images/paodekuai/roundOver/shengyu.png": {
+      "md5": "bc9015bcd388c3773b4f107ad6d7c115"
+    }, 
+    "res/res/images/paodekuai/roundOver/shibai.png": {
+      "md5": "dc60113a40baa2b996cf46fa8c9a56b8"
+    }, 
+    "res/res/images/paodekuai/roundOver/zhadan.png": {
+      "md5": "680caae65662ed43a64aece7dde8dacf"
+    }, 
+    "res/res/images/paohuzi/game/bg.png": {
+      "md5": "e2a9729fc0fa338dbb9215a2d2c7cdc8"
+    }, 
+    "res/res/images/paohuzi/game/chi.png": {
+      "md5": "613635025055d67e6aaa58c5a9483781"
+    }, 
+    "res/res/images/paohuzi/game/guo.png": {
+      "md5": "b8500c0db845252e72a8d1a3f712c482"
+    }, 
+    "res/res/images/paohuzi/game/headDi.png": {
+      "md5": "bbaa664224fe0985adaf96156ca974f9"
+    }, 
+    "res/res/images/paohuzi/game/hu.png": {
+      "md5": "d4787b6ce604ac2852b83330dd8c3250"
+    }, 
+    "res/res/images/paohuzi/game/paiCountDi.png": {
+      "md5": "a0c02f181e257b0517c4ce0053b16caf"
+    }, 
+    "res/res/images/paohuzi/game/peng.png": {
+      "md5": "1dd51f6e818399eb2bf2a3c9e83a54f3"
+    }, 
+    "res/res/images/paohuzi/game/title.png": {
+      "md5": "8616b5755b01fff55d22b3335c51ceeb"
+    }, 
+    "res/res/images/paohuzi/gameOver/bg.png": {
+      "md5": "9df2635912425028aba1896f495ca33e"
+    }, 
+    "res/res/images/paohuzi/gameOver/btn_fenxiang.png": {
+      "md5": "1fd39dbf30c8237688518936956eb112"
+    }, 
+    "res/res/images/paohuzi/gameOver/btn_return.png": {
+      "md5": "7904de0be709f591c19c8e0136e2ba92"
+    }, 
+    "res/res/images/paohuzi/gameOver/sp_bigDi.png": {
+      "md5": "2dc107725b1c60fd841b3f03a94ac674"
+    }, 
+    "res/res/images/paohuzi/gameOver/sp_dayingjia.png": {
+      "md5": "1b6c9dbbdfac80aec2d7c72bdc9e0690"
+    }, 
+    "res/res/images/paohuzi/gameOver/sp_fangzhu.png": {
+      "md5": "a14be26a8d076e414ea6f36e857ed61d"
+    }, 
+    "res/res/images/paohuzi/gameOver/sp_gameOver.png": {
+      "md5": "212779c9dc4d745fb26ca8e8d2bb20d9"
+    }, 
+    "res/res/images/paohuzi/gameOver/sp_lose.png": {
+      "md5": "55398cd1efd31d18dedc1f65d4ec89ac"
+    }, 
+    "res/res/images/paohuzi/gameOver/sp_wenziDi.png": {
+      "md5": "22aa3ca9850521e0e05f9bc6e636755e"
+    }, 
+    "res/res/images/paohuzi/gameOver/sp_win.png": {
+      "md5": "992b0799f88a5637a4d068c0d143e96f"
+    }, 
+    "res/res/images/paohuzi/gameOver/sp_zongchengji.png": {
+      "md5": "e0bb92ba17e89d8a6c275e860bdfcd80"
+    }, 
+    "res/res/images/paohuzi/paper_cards.plist": {
+      "md5": "84d7c5031795aec7a3e92cba9c21a44f"
+    }, 
+    "res/res/images/paohuzi/paper_cards.png": {
+      "md5": "95cdbf11b6866732ff17f21bfc1b7438"
+    }, 
+    "res/res/images/paohuzi/roundOver/benJuJieSuan.png": {
+      "md5": "f109ae2c6299c1151816de2b5deda3b4"
+    }, 
+    "res/res/images/paohuzi/roundOver/chi.png": {
+      "md5": "ec95ea54846019c13a9657842475b951"
+    }, 
+    "res/res/images/paohuzi/roundOver/hushu.png": {
+      "md5": "097d28e91495d061247d4185f4d9a07a"
+    }, 
+    "res/res/images/paohuzi/roundOver/kan.png": {
+      "md5": "3772964dda637fa3ce427ae86485e640"
+    }, 
+    "res/res/images/paohuzi/roundOver/peng.png": {
+      "md5": "e0806e2a1529659908eb75f689f75c73"
+    }, 
+    "res/res/images/paohuzi/roundOver/shuying.png": {
+      "md5": "3e06bf6665a81f364882f36ddd466ea1"
+    }, 
+    "res/res/images/set/set_musicicon.png": {
+      "md5": "1a2ee60f89ad0f9d8b2635fe04abc85d"
+    }, 
+    "res/res/images/set/set_musicword.png": {
+      "md5": "f66d4813d1f5acacd26d3d8d98ce9766"
+    }, 
+    "res/res/images/set/set_off.png": {
+      "md5": "8f9777bc588929922eb7a91185421773"
+    }, 
+    "res/res/images/set/set_open.png": {
+      "md5": "c9bcad9c8fffa0d77fb56caecfe80954"
+    }, 
+    "res/res/images/set/set_sound_icon.png": {
+      "md5": "314fae8488350f53f3f915c7fda0dc7b"
+    }, 
+    "res/res/images/set/set_soundword.png": {
+      "md5": "1326eb253d3cdf624f6ba4b7a07e6b8b"
+    }, 
+    "res/res/images/set/set_title.png": {
+      "md5": "b1b3d33ea86168519647cf22aacc8ebc"
+    }, 
+    "res/res/images/set/set_tuichuyouxi.png": {
+      "md5": "4d8427447852916b654db7ddb7bbb39b"
+    }, 
+    "res/res/images/share/share_haoyou.png": {
+      "md5": "a0e04414996f4cbc45d5d733bec3f8ad"
+    }, 
+    "res/res/images/share/share_pyq.png": {
+      "md5": "79f3484c319a3c847d46f252f38edd2c"
+    }, 
+    "res/res/images/share/title.png": {
+      "md5": "ba3e48a059819ebee09b344d07a41768"
+    }, 
+    "res/res/images/zhanji/btn_look.png": {
+      "md5": "37aa8223a99b86f53738509a92555640"
+    }, 
+    "res/res/images/zhanji/btn_lookOther.png": {
+      "md5": "58794c36fd22588b312e32d02d45ec7d"
+    }, 
+    "res/res/images/zhanji/btn_play.png": {
+      "md5": "7ccb710b2f74fd6f956d40c4224a00ab"
+    }, 
+    "res/res/images/zhanji/btn_share.png": {
+      "md5": "36a0e64c7a2db03b7248bd486e584e05"
+    }, 
+    "res/res/images/zhanji/sp_renwu.png": {
+      "md5": "8e5a582d73602b45b4b1ac4ad6c1b454"
+    }, 
+    "res/res/images/zhanji/zhanji_bg.png": {
+      "md5": "a27ca75548be7228e30b0bad2444cb20"
+    }, 
+    "res/res/images/zhanji/zhanji_di.png": {
+      "md5": "aa5402db7c15a900207dbb9a3cea36e4"
+    }, 
+    "res/res/images/zhanji/zhanji_info.png": {
+      "md5": "608ea2b7e968fcac66dcf40864616175"
+    }, 
+    "res/res/images/zhanji/zhanju_di.png": {
+      "md5": "189a55112191ddbc4305eda4098fe183"
+    }, 
+    "res/res/images/zhanji/zj_title_.png": {
+      "md5": "8b37a2b5918df0ed817f6fbb2e0738d5"
+    }, 
+    "res/scenes/ChaGuanListScene.csb": {
+      "md5": "fd6078e20ca44c76a5de6b3ec955c697"
+    }, 
+    "res/scenes/ChaGuanScene.csb": {
+      "md5": "22527823e27f6aa45da96911ea805de0"
+    }, 
+    "res/scenes/DaTingScene.csb": {
+      "md5": "406577dad629c60280cd7d8f608e9953"
+    }, 
+    "res/scenes/HallScene.csb": {
+      "md5": "612e49cf69f74b4b9e12f2c9138e2d1c"
+    }, 
+    "res/scenes/LoadScene.csb": {
+      "md5": "8070929c1fee998751deb21cc5b560a2"
+    }, 
+    "res/scenes/LoginScene.csb": {
+      "md5": "3bf5606099dd2f79b25b69b34153e600"
+    }, 
+    "res/scenes/clubMenberView.csb": {
+      "md5": "83dab1dd69921c91017adf53a47da7ad"
+    }, 
+    "res/sounds/chat/deyi_xiao.mp3": {
+      "md5": "8d4435e626713ccf8137e6f4573febca"
+    }, 
+    "res/sounds/chat/game_face_1.mp3": {
+      "md5": "0b708ba80fdbad38abeeb330be27e440"
+    }, 
+    "res/sounds/chat/game_face_10.mp3": {
+      "md5": "37e2ed340e56ec8151634b709a55157f"
+    }, 
+    "res/sounds/chat/game_face_11.mp3": {
+      "md5": "95e15423bc603c651444a8486c67f8ae"
+    }, 
+    "res/sounds/chat/game_face_12.mp3": {
+      "md5": "35462ee47da7903cf7026c10178e6179"
+    }, 
+    "res/sounds/chat/game_face_13.mp3": {
+      "md5": "c9909154b6a5623963049db2a24f688d"
+    }, 
+    "res/sounds/chat/game_face_14.mp3": {
+      "md5": "64aacd99c7474c1cd09212b14862be32"
+    }, 
+    "res/sounds/chat/game_face_15.mp3": {
+      "md5": "8d4435e626713ccf8137e6f4573febca"
+    }, 
+    "res/sounds/chat/game_face_16.mp3": {
+      "md5": "d1569a99084b190b24d5332fdb53962a"
+    }, 
+    "res/sounds/chat/game_face_2.mp3": {
+      "md5": "3493b274eb6a6485291cafe8bd13c538"
+    }, 
+    "res/sounds/chat/game_face_3.mp3": {
+      "md5": "7116fb0e9a3738f3e3855b075902bc09"
+    }, 
+    "res/sounds/chat/game_face_4.mp3": {
+      "md5": "d12394a3cf325894014b2218020d33a5"
+    }, 
+    "res/sounds/chat/game_face_5.mp3": {
+      "md5": "4cf2da203d045586a2604dcbd1006abe"
+    }, 
+    "res/sounds/chat/game_face_6.mp3": {
+      "md5": "7b29f1fa62bbc68675d0e1e45eca7023"
+    }, 
+    "res/sounds/chat/game_face_7.mp3": {
+      "md5": "924a485870708a15b4d8f9e8a8ad6b63"
+    }, 
+    "res/sounds/chat/game_face_8.mp3": {
+      "md5": "8423643ac4b9cb3a900bfcbe1eae1942"
+    }, 
+    "res/sounds/chat/game_face_9.mp3": {
+      "md5": "878c246ffe8cdbda82e2867dc3ff02a8"
+    }, 
+    "res/sounds/chat/gou_jiao.mp3": {
+      "md5": "d28504fe461f95934cd31cf404634738"
+    }, 
+    "res/sounds/chat/ku_qi.mp3": {
+      "md5": "924a485870708a15b4d8f9e8a8ad6b63"
+    }, 
+    "res/sounds/chat/nao_ling.mp3": {
+      "md5": "f7dfa0ed6e76a9b83e723cfe18be3844"
+    }, 
+    "res/sounds/chat/qin_zui.mp3": {
+      "md5": "77d422e071877c41243481f6f95e99db"
+    }, 
+    "res/sounds/chat/qing_zhu.mp3": {
+      "md5": "fc0f180f67b0bed0157fce0893154462"
+    }, 
+    "res/sounds/chat/reng_ji_dan.mp3": {
+      "md5": "933e26496de22e88834d005ad79988a9"
+    }, 
+    "res/sounds/chat/tan_huang.mp3": {
+      "md5": "1384888d3e96fc6f567ca66281e6270f"
+    }, 
+    "res/sounds/chat/tou_xiang.mp3": {
+      "md5": "d8b7a849d355079eed2fd4005ba3ade7"
+    }, 
+    "res/sounds/common/chips_to_table.mp3": {
+      "md5": "76a28e7a0cb37bc34808af5109a39136"
+    }, 
+    "res/sounds/common/hong_bao_lai_la.mp3": {
+      "md5": "369116cf5222fdfc8f7c08a3442cd220"
+    }, 
+    "res/sounds/common/huo_jiang.mp3": {
+      "md5": "f1c179aa02506b418c8082c036c953d7"
+    }, 
+    "res/sounds/common/niujiao.mp3": {
+      "md5": "56447ec5a909eed473e84a5572f0b596"
+    }, 
+    "res/sounds/common/pay_card.mp3": {
+      "md5": "d4f8a309bf76b848f51b174bdb272f03"
+    }, 
+    "res/sounds/common/play_completed.mp3": {
+      "md5": "9054df08a972eca3a8559fa890c0639b"
+    }, 
+    "res/sounds/common/sent_message.mp3": {
+      "md5": "13b70f68d45dd3f86a65b51886f1a4c4"
+    }, 
+    "res/sounds/common/shengli.mp3": {
+      "md5": "5502228e91c962c94128c7ab60118edd"
+    }, 
+    "res/sounds/common/shibai.mp3": {
+      "md5": "4a77d29192bf601200b9654cddddd726"
+    }, 
+    "res/sounds/common/sound_button_click.mp3": {
+      "md5": "c79b305cd1e8bd1e36c5bc8c92f95fb4"
+    }, 
+    "res/sounds/common/sound_card_click.mp3": {
+      "md5": "392ca0ac48f21186b5184532c4f04329"
+    }, 
+    "res/sounds/common/sound_card_out.mp3": {
+      "md5": "f82024e4f98bd77139f7dcc85072e3b1"
+    }, 
+    "res/sounds/common/sound_deal_card.mp3": {
+      "md5": "1653ad19a241946af5f1a277e12275ce"
+    }, 
+    "res/sounds/common/sound_enter.mp3": {
+      "md5": "b258e43ef8c9cb7fa08cd63348ce1916"
+    }, 
+    "res/sounds/common/sound_left.mp3": {
+      "md5": "340bc93de4ade71529ded9cd595b610b"
+    }, 
+    "res/sounds/common/sound_liuju.mp3": {
+      "md5": "9b1ec6e3023521abf5d0081d5316acef"
+    }, 
+    "res/sounds/common/sound_lose.mp3": {
+      "md5": "79bda9a6cdeeaaa59fe920646388fa6b"
+    }, 
+    "res/sounds/common/sound_ready.mp3": {
+      "md5": "85307386aab51e0078dd39dab081f355"
+    }, 
+    "res/sounds/common/sound_timeup_alarm.mp3": {
+      "md5": "ca3a3e839615ae9125bcee82e3ab6b04"
+    }, 
+    "res/sounds/common/sound_win.mp3": {
+      "md5": "a51fdd70c98892a44bb66bdca118cf3c"
+    }, 
+    "res/sounds/common/tipai.mp3": {
+      "md5": "485a66e7bf655b7f7367ff77228a0b0a"
+    }, 
+    "res/sounds/feijifeiguo.mp3": {
+      "md5": "945a0edf1e72baf9826bfb115f828a0c"
+    }, 
+    "res/sounds/majiang/female/buchui.mp3": {
+      "md5": "cb2bc015e2bb91ff50e2f8d4aa2b8c3f"
+    }, 
+    "res/sounds/majiang/female/buzhang.mp3": {
+      "md5": "eb3e62fba1a4d47c46c0d721969151ce"
+    }, 
+    "res/sounds/majiang/female/chi1.mp3": {
+      "md5": "3d35aa9b099697af0103c9e917bd0bdd"
+    }, 
+    "res/sounds/majiang/female/chi2.mp3": {
+      "md5": "887ab4a5d4c3e208be2fa7da577ad38f"
+    }, 
+    "res/sounds/majiang/female/chi3.mp3": {
+      "md5": "ffded0b63df9d8296f40ac67a29d5fc4"
+    }, 
+    "res/sounds/majiang/female/chi4.mp3": {
+      "md5": "d0ca2691e94d582dd1ea9660d45e0d08"
+    }, 
+    "res/sounds/majiang/female/chui.mp3": {
+      "md5": "244fa75065867e2c73cb2b6173fddb2f"
+    }, 
+    "res/sounds/majiang/female/chupai.mp3": {
+      "md5": "c6d0e36d9592aecabc2c4319835bfd68"
+    }, 
+    "res/sounds/majiang/female/dahu1.mp3": {
+      "md5": "25c4f58c944d78eab0d250f60612670b"
+    }, 
+    "res/sounds/majiang/female/dahu2.mp3": {
+      "md5": "a94a6c7120a31c2c32e08589cbd9290b"
+    }, 
+    "res/sounds/majiang/female/dianpao1.mp3": {
+      "md5": "3dcbf07654738d429f8f3ce09e2a5ef9"
+    }, 
+    "res/sounds/majiang/female/dianpao2.mp3": {
+      "md5": "11a2e699c92e600ad69181a3e1859991"
+    }, 
+    "res/sounds/majiang/female/dianpao3.mp3": {
+      "md5": "03918f817693f446cf6737e9525d3288"
+    }, 
+    "res/sounds/majiang/female/fix_msg_1.mp3": {
+      "md5": "841d301dfaaffd2733efb764ea0b368c"
+    }, 
+    "res/sounds/majiang/female/fix_msg_10.mp3": {
+      "md5": "0afd2b6565f10ded33072cebd0ae2a43"
+    }, 
+    "res/sounds/majiang/female/fix_msg_11.mp3": {
+      "md5": "fa86ff46597ed5d03d60e2e0097b155d"
+    }, 
+    "res/sounds/majiang/female/fix_msg_2.mp3": {
+      "md5": "525b7996fcdf4b4024a0fb5ca17d03eb"
+    }, 
+    "res/sounds/majiang/female/fix_msg_3.mp3": {
+      "md5": "e3b8ab3a870e07c31133e2264490731f"
+    }, 
+    "res/sounds/majiang/female/fix_msg_4.mp3": {
+      "md5": "d3e78fbc1ed2d5b15e9f62ccc64e7a08"
+    }, 
+    "res/sounds/majiang/female/fix_msg_5.mp3": {
+      "md5": "ee915114a4c3f170aa24164bbfd249b8"
+    }, 
+    "res/sounds/majiang/female/fix_msg_6.mp3": {
+      "md5": "7f03bd15ac7026cbe4dc7429e8803f5a"
+    }, 
+    "res/sounds/majiang/female/fix_msg_7.mp3": {
+      "md5": "8d81cf9fa589f70a28f25630add3ab97"
+    }, 
+    "res/sounds/majiang/female/fix_msg_8.mp3": {
+      "md5": "c3818e00704ccf538dcc669826fed758"
+    }, 
+    "res/sounds/majiang/female/fix_msg_9.mp3": {
+      "md5": "799c39f66f8d524a8524ab5dfd63203b"
+    }, 
+    "res/sounds/majiang/female/gang1.mp3": {
+      "md5": "143a90cf64d097f9f250d49810cca54c"
+    }, 
+    "res/sounds/majiang/female/gang2.mp3": {
+      "md5": "f1cd89a2a0d77edd74d8285196f866e9"
+    }, 
+    "res/sounds/majiang/female/gang3.mp3": {
+      "md5": "e42321dadc5843e29948d287c1b9e767"
+    }, 
+    "res/sounds/majiang/female/hu1.mp3": {
+      "md5": "9dcbf320262413379c65dda498fd84de"
+    }, 
+    "res/sounds/majiang/female/hu2.mp3": {
+      "md5": "48a10f61c92dbddb5404fe64b26e6b62"
+    }, 
+    "res/sounds/majiang/female/hu3.mp3": {
+      "md5": "6ea121d6dfd2fc6bc5485c97598cfeef"
+    }, 
+    "res/sounds/majiang/female/js_dh_gangshangkaihua.mp3": {
+      "md5": "bd450687c45badcdeac6355d9d270779"
+    }, 
+    "res/sounds/majiang/female/js_dh_gangshangkaihua_zimo.mp3": {
+      "md5": "36979cfa110d1a3427d55e61884489cf"
+    }, 
+    "res/sounds/majiang/female/js_dh_gangshangpao.mp3": {
+      "md5": "46241c23c9fc341d1dc50e9cb7ff9a8c"
+    }, 
+    "res/sounds/majiang/female/js_dh_haidilaoyue.mp3": {
+      "md5": "8b676cfbbc350569b6d90bf5c7f83012"
+    }, 
+    "res/sounds/majiang/female/js_dh_haidilaoyue_zimo.mp3": {
+      "md5": "5f2e1c49766bf38b520db71d44faddb3"
+    }, 
+    "res/sounds/majiang/female/js_dh_haidipao.mp3": {
+      "md5": "0659b0432b0fdf7b46d676c21895d8f1"
+    }, 
+    "res/sounds/majiang/female/js_dh_haohuaqixiaodui.mp3": {
+      "md5": "99308cc769a2c8ca97ebbaa3984c113c"
+    }, 
+    "res/sounds/majiang/female/js_dh_haohuaqixiaodui_zimo.mp3": {
+      "md5": "15d64e0a1f731c3a19b49684f623b22a"
+    }, 
+    "res/sounds/majiang/female/js_dh_jiangjianghu.mp3": {
+      "md5": "f9593ad80ff2965297e5910995ef6b76"
+    }, 
+    "res/sounds/majiang/female/js_dh_jiangjianghu_zimo.mp3": {
+      "md5": "cddf0271457be42bd10a3ea4aada51b8"
+    }, 
+    "res/sounds/majiang/female/js_dh_pengpenghu.mp3": {
+      "md5": "490c8c201a802f4dfa436c56807de939"
+    }, 
+    "res/sounds/majiang/female/js_dh_pengpenghu_zimo.mp3": {
+      "md5": "ecedb253355e736621ce384f5a6b4267"
+    }, 
+    "res/sounds/majiang/female/js_dh_qiangganghu.mp3": {
+      "md5": "c6e7a2d5abd3bfc2cb39899b7c954b6e"
+    }, 
+    "res/sounds/majiang/female/js_dh_qingyise.mp3": {
+      "md5": "2362e1dafcd8f07f22611087542258c8"
+    }, 
+    "res/sounds/majiang/female/js_dh_qingyise_zimo.mp3": {
+      "md5": "841d02c36d5ff77a5e089f5cb545eceb"
+    }, 
+    "res/sounds/majiang/female/js_dh_qixiaodui.mp3": {
+      "md5": "f833a2232c152ff999200ce63e5f75ec"
+    }, 
+    "res/sounds/majiang/female/js_dh_qixiaodui_zimo.mp3": {
+      "md5": "9e00252ebe651f52d8c3b9cd93813972"
+    }, 
+    "res/sounds/majiang/female/js_dh_quanqiuren.mp3": {
+      "md5": "1a90eaa5849ab23ed141021bd5ecf953"
+    }, 
+    "res/sounds/majiang/female/js_dh_quanqiuren_zimo.mp3": {
+      "md5": "53b8609ec3ce8b37f66f250770b4b103"
+    }, 
+    "res/sounds/majiang/female/js_xh_banbanhu.mp3": {
+      "md5": "3d8cc4618daf18b1ac2c926ac6a21be8"
+    }, 
+    "res/sounds/majiang/female/js_xh_dasixi.mp3": {
+      "md5": "e5fdf8d5b3faf664ab34c4230102252c"
+    }, 
+    "res/sounds/majiang/female/js_xh_liuliushun.mp3": {
+      "md5": "b10ff6c0d8c26375960327117071970a"
+    }, 
+    "res/sounds/majiang/female/js_xh_queyise.mp3": {
+      "md5": "f0d4b7de0da349ea861e8214fc9f2c03"
+    }, 
+    "res/sounds/majiang/female/mj11.mp3": {
+      "md5": "7992e565a36fc7ceabf7a0dda69c6f16"
+    }, 
+    "res/sounds/majiang/female/mj12.mp3": {
+      "md5": "11ea0ac90ca705fcff408d8e3b46fe68"
+    }, 
+    "res/sounds/majiang/female/mj13.mp3": {
+      "md5": "bab6e32685e8620a8a6a0c9a7b1ce7bf"
+    }, 
+    "res/sounds/majiang/female/mj14.mp3": {
+      "md5": "45cab4f75915853e144bbe9d0bf5cb72"
+    }, 
+    "res/sounds/majiang/female/mj15.mp3": {
+      "md5": "57c62a3ada418ed76e2343bf9b80248b"
+    }, 
+    "res/sounds/majiang/female/mj16.mp3": {
+      "md5": "0d9ef972a53fb3cf45a2c86a6f138bf6"
+    }, 
+    "res/sounds/majiang/female/mj17.mp3": {
+      "md5": "95e0381b7c501922f8e75e8bad4029a2"
+    }, 
+    "res/sounds/majiang/female/mj18.mp3": {
+      "md5": "d94003edede934f6a4d60343e17923b3"
+    }, 
+    "res/sounds/majiang/female/mj19.mp3": {
+      "md5": "1e0909e10b4115f353ee5b5b6144697f"
+    }, 
+    "res/sounds/majiang/female/mj21.mp3": {
+      "md5": "e4d6eaada35574ea5f178ca9b349a2bf"
+    }, 
+    "res/sounds/majiang/female/mj22.mp3": {
+      "md5": "e0a5c1295467e61de4ba2637d2364b64"
+    }, 
+    "res/sounds/majiang/female/mj23.mp3": {
+      "md5": "4907b58b56943e7b91e867e03e475c3c"
+    }, 
+    "res/sounds/majiang/female/mj24.mp3": {
+      "md5": "0e17afb483b2129815d56f37b75d7b4f"
+    }, 
+    "res/sounds/majiang/female/mj25.mp3": {
+      "md5": "3409500122dfae8d78a13cf5be7fa873"
+    }, 
+    "res/sounds/majiang/female/mj26.mp3": {
+      "md5": "d6c5bbc556c197cd8e3a3d84ab5cffc7"
+    }, 
+    "res/sounds/majiang/female/mj27.mp3": {
+      "md5": "6c62c87504b81f98002ecdd5108cca74"
+    }, 
+    "res/sounds/majiang/female/mj28.mp3": {
+      "md5": "60b41d27a68bf5df62121e424735e670"
+    }, 
+    "res/sounds/majiang/female/mj29.mp3": {
+      "md5": "16a2a9246591fadc32997e8011b8001d"
+    }, 
+    "res/sounds/majiang/female/mj31.mp3": {
+      "md5": "78336d16fbe940dd5ba54ca06eae55b4"
+    }, 
+    "res/sounds/majiang/female/mj32.mp3": {
+      "md5": "fb7f1678e2decd18afe672dbddcb3c62"
+    }, 
+    "res/sounds/majiang/female/mj33.mp3": {
+      "md5": "87b381d9fc009b1190756a8e919b8c8c"
+    }, 
+    "res/sounds/majiang/female/mj34.mp3": {
+      "md5": "a4e0c64b9766bbc4f9a8fe3ac1f2e9c4"
+    }, 
+    "res/sounds/majiang/female/mj35.mp3": {
+      "md5": "e8a5edabc77a75c1111668e995f2eba2"
+    }, 
+    "res/sounds/majiang/female/mj36.mp3": {
+      "md5": "4c1034321c667bf9da4f05ee6f22287f"
+    }, 
+    "res/sounds/majiang/female/mj37.mp3": {
+      "md5": "b11c3da0ce63a2dd93ae8c4f116f0e72"
+    }, 
+    "res/sounds/majiang/female/mj38.mp3": {
+      "md5": "ca0f0dae14aeafb02f88f12eafdb6dcc"
+    }, 
+    "res/sounds/majiang/female/mj39.mp3": {
+      "md5": "4bd349eca9970731b61cd5002d256981"
+    }, 
+    "res/sounds/majiang/female/mj41.mp3": {
+      "md5": "5e81a4cc50f7b5b6c7d1bea23313a906"
+    }, 
+    "res/sounds/majiang/female/mj43.mp3": {
+      "md5": "88cee29e2acdfbbd62ffbbce7342bef5"
+    }, 
+    "res/sounds/majiang/female/mj45.mp3": {
+      "md5": "57e627b4773974af75ad6a967b634f8a"
+    }, 
+    "res/sounds/majiang/female/mj47.mp3": {
+      "md5": "8105a85c9585a0bc8ef8837b9835d9a9"
+    }, 
+    "res/sounds/majiang/female/mj51.mp3": {
+      "md5": "3e87ea94ad58d18b5e457b9993737c90"
+    }, 
+    "res/sounds/majiang/female/mj53.mp3": {
+      "md5": "aa919d24f9c2a4c41e828e8409674245"
+    }, 
+    "res/sounds/majiang/female/mj55.mp3": {
+      "md5": "e5042d8a20833243f63a557a503d3d55"
+    }, 
+    "res/sounds/majiang/female/peng1.mp3": {
+      "md5": "7106a7899df9b9a9acdf8fbc649dd18a"
+    }, 
+    "res/sounds/majiang/female/peng2.mp3": {
+      "md5": "fb1c19e5c8ada6681863198b544368f5"
+    }, 
+    "res/sounds/majiang/female/peng3.mp3": {
+      "md5": "a9c6a62f948287ef2df125fde48088a4"
+    }, 
+    "res/sounds/majiang/female/peng4.mp3": {
+      "md5": "e6a88f6d008b4289bf66783ad0e56c5e"
+    }, 
+    "res/sounds/majiang/female/peng5.mp3": {
+      "md5": "25edebb0c2265dd080ce144981505cca"
+    }, 
+    "res/sounds/majiang/female/xiaohu.mp3": {
+      "md5": "ede80eb70b5a0ac903100074260894c1"
+    }, 
+    "res/sounds/majiang/female/yaoji.mp3": {
+      "md5": "e76313b6b033a1b413d61494c5bd5072"
+    }, 
+    "res/sounds/majiang/female/zimo1.mp3": {
+      "md5": "7a4fc9f0098cb2dbb42f600988383180"
+    }, 
+    "res/sounds/majiang/female/zimo2.mp3": {
+      "md5": "4e6903daea393feed5c7ad7f9a29ffde"
+    }, 
+    "res/sounds/majiang/male/buchui.mp3": {
+      "md5": "cb2bc015e2bb91ff50e2f8d4aa2b8c3f"
+    }, 
+    "res/sounds/majiang/male/buzhang.mp3": {
+      "md5": "e6fc6bd6a8ddf128f3a0a591daf3357f"
+    }, 
+    "res/sounds/majiang/male/chi1.mp3": {
+      "md5": "add59ccb5f0452cad516ecef718b8fe3"
+    }, 
+    "res/sounds/majiang/male/chi2.mp3": {
+      "md5": "f93e9c232dd2997105735248179a8b00"
+    }, 
+    "res/sounds/majiang/male/chi3.mp3": {
+      "md5": "b704257a6582ff10c51514d5bcbccdd7"
+    }, 
+    "res/sounds/majiang/male/chi4.mp3": {
+      "md5": "ded52846eb6a93f066ab650e71feefc5"
+    }, 
+    "res/sounds/majiang/male/chui.mp3": {
+      "md5": "244fa75065867e2c73cb2b6173fddb2f"
+    }, 
+    "res/sounds/majiang/male/chupai.mp3": {
+      "md5": "364634bb89a63d9f53543840ef86f8f0"
+    }, 
+    "res/sounds/majiang/male/dahu1.mp3": {
+      "md5": "94c43af7419905b6e479959b910ee32f"
+    }, 
+    "res/sounds/majiang/male/dahu2.mp3": {
+      "md5": "c951d5fc56f40ffa55927ecd2f2020f6"
+    }, 
+    "res/sounds/majiang/male/dianpao1.mp3": {
+      "md5": "ac741dd42d83692b0969ce99370dd38f"
+    }, 
+    "res/sounds/majiang/male/dianpao2.mp3": {
+      "md5": "f9b4219606cec2d7cccbe3d03c938df1"
+    }, 
+    "res/sounds/majiang/male/dianpao3.mp3": {
+      "md5": "186a41a809266b26a65bb00ce2c4ba83"
+    }, 
+    "res/sounds/majiang/male/fix_msg_1.mp3": {
+      "md5": "9f414e82518b4a4d577f83af0ad2d408"
+    }, 
+    "res/sounds/majiang/male/fix_msg_10.mp3": {
+      "md5": "ff52d38dd0318c0ac9294dadf9406da8"
+    }, 
+    "res/sounds/majiang/male/fix_msg_11.mp3": {
+      "md5": "0c1186be8934d6bea905485f37b59adb"
+    }, 
+    "res/sounds/majiang/male/fix_msg_2.mp3": {
+      "md5": "9498c47d841aeaf32ac0d6d7dc99814f"
+    }, 
+    "res/sounds/majiang/male/fix_msg_3.mp3": {
+      "md5": "40ebaadf681f0aa1759775ef3f75e662"
+    }, 
+    "res/sounds/majiang/male/fix_msg_4.mp3": {
+      "md5": "51d8cb043e2ffde13445795e26c75a94"
+    }, 
+    "res/sounds/majiang/male/fix_msg_5.mp3": {
+      "md5": "dc6ba5128684f8dd5274692db3d0483a"
+    }, 
+    "res/sounds/majiang/male/fix_msg_6.mp3": {
+      "md5": "4cd797171776db96583312fbbe8fe9d7"
+    }, 
+    "res/sounds/majiang/male/fix_msg_7.mp3": {
+      "md5": "74010c94ccfb305fcf18fe015c53aa00"
+    }, 
+    "res/sounds/majiang/male/fix_msg_8.mp3": {
+      "md5": "f5c92859203f531427ea84616fab7fde"
+    }, 
+    "res/sounds/majiang/male/fix_msg_9.mp3": {
+      "md5": "1cd16779dcb74b941ac6a68cb4d24da8"
+    }, 
+    "res/sounds/majiang/male/gang1.mp3": {
+      "md5": "4e9c84dbbddff3a87c4c628a362f59fe"
+    }, 
+    "res/sounds/majiang/male/gang2.mp3": {
+      "md5": "b7ed4161b651c4bfc8261e3dae7edd7d"
+    }, 
+    "res/sounds/majiang/male/gang3.mp3": {
+      "md5": "ebcaf13d0a466d12dad735cfb08be924"
+    }, 
+    "res/sounds/majiang/male/hu1.mp3": {
+      "md5": "ad149c736037b24d915afcb85d730b15"
+    }, 
+    "res/sounds/majiang/male/hu2.mp3": {
+      "md5": "26eeb051efe9de489a8d893993128fab"
+    }, 
+    "res/sounds/majiang/male/hu3.mp3": {
+      "md5": "ea28064426f13ab2fcb102eadf7d0d5a"
+    }, 
+    "res/sounds/majiang/male/js_dh_gangshangkaihua.mp3": {
+      "md5": "129b0a22cd019cc9d092c7c5d19649fd"
+    }, 
+    "res/sounds/majiang/male/js_dh_gangshangkaihua_zimo.mp3": {
+      "md5": "b15bfc552a1a02b91af3ef493a39561d"
+    }, 
+    "res/sounds/majiang/male/js_dh_gangshangpao.mp3": {
+      "md5": "f036d75e8f4b1cee1d376794d59b9edf"
+    }, 
+    "res/sounds/majiang/male/js_dh_haidilaoyue.mp3": {
+      "md5": "a547f9b424e147401d5963630222f347"
+    }, 
+    "res/sounds/majiang/male/js_dh_haidilaoyue_zimo.mp3": {
+      "md5": "0ed83b095cc0fa101c95a9cf5d1da749"
+    }, 
+    "res/sounds/majiang/male/js_dh_haidipao.mp3": {
+      "md5": "119c39fb42efb71ba5b750e840a779d5"
+    }, 
+    "res/sounds/majiang/male/js_dh_haohuaqixiaodui.mp3": {
+      "md5": "9f419c526fd7ff9777ac4ef71d1d2341"
+    }, 
+    "res/sounds/majiang/male/js_dh_haohuaqixiaodui_zimo.mp3": {
+      "md5": "d44dbcc07367cfe51cf2d203ec72d3fe"
+    }, 
+    "res/sounds/majiang/male/js_dh_jiangjianghu.mp3": {
+      "md5": "4b596712cdb7a8b4e8ecc0d6d8008faf"
+    }, 
+    "res/sounds/majiang/male/js_dh_jiangjianghu_zimo.mp3": {
+      "md5": "14e7678519e98a7353b2a30e0f960355"
+    }, 
+    "res/sounds/majiang/male/js_dh_pengpenghu.mp3": {
+      "md5": "07c161511c0733a61ddb9f9eaf9e23c2"
+    }, 
+    "res/sounds/majiang/male/js_dh_pengpenghu_zimo.mp3": {
+      "md5": "1c3100d3f3aac403e228ee2f4b677a3b"
+    }, 
+    "res/sounds/majiang/male/js_dh_qiangganghu.mp3": {
+      "md5": "4c0d5f2aa0c49b398e6a049a1989fb48"
+    }, 
+    "res/sounds/majiang/male/js_dh_qingyise.mp3": {
+      "md5": "2478a4e12771500dceb8ba00552dae18"
+    }, 
+    "res/sounds/majiang/male/js_dh_qingyise_zimo.mp3": {
+      "md5": "79fa14380a2a3b07b49baf73ae42f229"
+    }, 
+    "res/sounds/majiang/male/js_dh_qixiaodui.mp3": {
+      "md5": "62d50fe5f4ed944f5818f06befba5504"
+    }, 
+    "res/sounds/majiang/male/js_dh_qixiaodui_zimo.mp3": {
+      "md5": "ee7f2c1540c9b0208881d69bea665b18"
+    }, 
+    "res/sounds/majiang/male/js_dh_quanqiuren.mp3": {
+      "md5": "187ddb2002abff26fffbe6e280bc32ec"
+    }, 
+    "res/sounds/majiang/male/js_dh_quanqiuren_zimo.mp3": {
+      "md5": "ed5d269ad2e3ac86ee6e973792c959f1"
+    }, 
+    "res/sounds/majiang/male/js_xh_banbanhu.mp3": {
+      "md5": "136eb5948f2df2217e64d11f50d0b63f"
+    }, 
+    "res/sounds/majiang/male/js_xh_dasixi.mp3": {
+      "md5": "7fe4379f44c778c36e71ae8788edfb62"
+    }, 
+    "res/sounds/majiang/male/js_xh_liuliushun.mp3": {
+      "md5": "17b54cb3b9fc18ecf257ed3a08d193ab"
+    }, 
+    "res/sounds/majiang/male/js_xh_queyise.mp3": {
+      "md5": "594a1c84185ab03b89abb5a9ee0df09a"
+    }, 
+    "res/sounds/majiang/male/mj11.mp3": {
+      "md5": "f49150bd4b774c7708038df3d2d39fbb"
+    }, 
+    "res/sounds/majiang/male/mj12.mp3": {
+      "md5": "c4e29eb29e8c7b16b6eaf404c5d9d661"
+    }, 
+    "res/sounds/majiang/male/mj13.mp3": {
+      "md5": "97aea3cd5c0d068e9cf0a87a66f1b280"
+    }, 
+    "res/sounds/majiang/male/mj14.mp3": {
+      "md5": "69c050caacbe931d3e6283b209357f31"
+    }, 
+    "res/sounds/majiang/male/mj15.mp3": {
+      "md5": "4f2ee9620c333fb8cac989ac9ae9913e"
+    }, 
+    "res/sounds/majiang/male/mj16.mp3": {
+      "md5": "eee762f73aff932c7ec49bf92f77183c"
+    }, 
+    "res/sounds/majiang/male/mj17.mp3": {
+      "md5": "f35624f3a85ef2553f2bedd0182cd10b"
+    }, 
+    "res/sounds/majiang/male/mj18.mp3": {
+      "md5": "1fbc5920608c4072a5ed5a77fa16159d"
+    }, 
+    "res/sounds/majiang/male/mj19.mp3": {
+      "md5": "34e7447f0ab3ddb853fbbdc7b787e398"
+    }, 
+    "res/sounds/majiang/male/mj21.mp3": {
+      "md5": "1a9f2698a1606bb10f7788c32926cdcc"
+    }, 
+    "res/sounds/majiang/male/mj22.mp3": {
+      "md5": "493a23b3b7f1edb4cba69c29d6152d23"
+    }, 
+    "res/sounds/majiang/male/mj23.mp3": {
+      "md5": "da599d896f5686dd0c337476c1fe3ab3"
+    }, 
+    "res/sounds/majiang/male/mj24.mp3": {
+      "md5": "b1d11bf0f24492882622a738271effdc"
+    }, 
+    "res/sounds/majiang/male/mj25.mp3": {
+      "md5": "76979db415999daa2905dd383f7aeeb7"
+    }, 
+    "res/sounds/majiang/male/mj26.mp3": {
+      "md5": "3e42bda09c0780d7e9486e0724663350"
+    }, 
+    "res/sounds/majiang/male/mj27.mp3": {
+      "md5": "8c41779e7def20934689e8f710041f33"
+    }, 
+    "res/sounds/majiang/male/mj28.mp3": {
+      "md5": "97a9d4917d7832ad42747872f91103ca"
+    }, 
+    "res/sounds/majiang/male/mj29.mp3": {
+      "md5": "59b0aa4a73174a90dd877e4b5d73ac1a"
+    }, 
+    "res/sounds/majiang/male/mj31.mp3": {
+      "md5": "2f08804ad0e7342e3dccb27d9ae0d4e2"
+    }, 
+    "res/sounds/majiang/male/mj32.mp3": {
+      "md5": "3c4dc4f317d018bc7ac60c4035a1bc39"
+    }, 
+    "res/sounds/majiang/male/mj33.mp3": {
+      "md5": "745439a2e77187bff82d8c06846868bc"
+    }, 
+    "res/sounds/majiang/male/mj34.mp3": {
+      "md5": "547e680cff83287a1a36a9bb6ffdd8fb"
+    }, 
+    "res/sounds/majiang/male/mj35.mp3": {
+      "md5": "2a55adaaabaeff50b42c1e753a8f87ee"
+    }, 
+    "res/sounds/majiang/male/mj36.mp3": {
+      "md5": "e25fcdad3277d5bd48f7a2f0b6aeadc2"
+    }, 
+    "res/sounds/majiang/male/mj37.mp3": {
+      "md5": "c75b2b7189144a13460876c50e340a3b"
+    }, 
+    "res/sounds/majiang/male/mj38.mp3": {
+      "md5": "2c97289a516cc4d25c293678088d7ab7"
+    }, 
+    "res/sounds/majiang/male/mj39.mp3": {
+      "md5": "d42201309bca64c40f63abbb252f6390"
+    }, 
+    "res/sounds/majiang/male/mj41.mp3": {
+      "md5": "660e5f16315f0fb2ca90494234d99a4e"
+    }, 
+    "res/sounds/majiang/male/mj43.mp3": {
+      "md5": "f8eadcb9851ba09071b8a64150257c3b"
+    }, 
+    "res/sounds/majiang/male/mj45.mp3": {
+      "md5": "e91efc5b0b00ceddde18c47bc85ea104"
+    }, 
+    "res/sounds/majiang/male/mj47.mp3": {
+      "md5": "311ab6d251deabb882f9631e29f5cfa2"
+    }, 
+    "res/sounds/majiang/male/mj51.mp3": {
+      "md5": "210a4e5644a080f0c29cbfee560c45c7"
+    }, 
+    "res/sounds/majiang/male/mj53.mp3": {
+      "md5": "514e2fd51366e124d3e01074aeb73e2e"
+    }, 
+    "res/sounds/majiang/male/mj55.mp3": {
+      "md5": "6534ece3ac00db9c5ff87ddf332413e3"
+    }, 
+    "res/sounds/majiang/male/peng1.mp3": {
+      "md5": "fdbe2834b3779ee192c59c9e5f17c32e"
+    }, 
+    "res/sounds/majiang/male/peng2.mp3": {
+      "md5": "79e3a104df333cb9fd8e7755592b5ff2"
+    }, 
+    "res/sounds/majiang/male/peng3.mp3": {
+      "md5": "401ac36d35aef921b109c42e6721a946"
+    }, 
+    "res/sounds/majiang/male/peng4.mp3": {
+      "md5": "712ac28785ea0bdb518df7e850be6b24"
+    }, 
+    "res/sounds/majiang/male/peng5.mp3": {
+      "md5": "e86b5ac9a86dc16563ef05bc98d0616d"
+    }, 
+    "res/sounds/majiang/male/xiaohu.mp3": {
+      "md5": "cf67220a809a686334a894594f26b5ba"
+    }, 
+    "res/sounds/majiang/male/yaoji.mp3": {
+      "md5": "a9794192d08f62127cce9098c962f273"
+    }, 
+    "res/sounds/majiang/male/zimo1.mp3": {
+      "md5": "4326c7fb0df04041312c711c522a5a2f"
+    }, 
+    "res/sounds/majiang/male/zimo2.mp3": {
+      "md5": "286e2d114ec4de3d9731955724dcf397"
+    }, 
+    "res/sounds/music1.mp3": {
+      "md5": "02c5d99da2a26268d1d36f8376ca7fd7"
+    }, 
+    "res/sounds/music2.mp3": {
+      "md5": "b35b36b00d64d79f066c3c9a4329c99b"
+    }, 
+    "res/sounds/paodekuai/female/10.mp3": {
+      "md5": "759f2838ae36639831f531d52bfbd170"
+    }, 
+    "res/sounds/paodekuai/female/11.mp3": {
+      "md5": "d0f0aa6de82cf4f8b4a3dccc08866784"
+    }, 
+    "res/sounds/paodekuai/female/12.mp3": {
+      "md5": "13add1fc0a3a25da6fa5491424724d1f"
+    }, 
+    "res/sounds/paodekuai/female/13.mp3": {
+      "md5": "e1952ae96b3cad712c0c8e7b96a33d8a"
+    }, 
+    "res/sounds/paodekuai/female/14.mp3": {
+      "md5": "292721d89b8c8d05bf395f056938a43d"
+    }, 
+    "res/sounds/paodekuai/female/16.mp3": {
+      "md5": "363dbd48e1775a3f67dd18a5af8fdac6"
+    }, 
+    "res/sounds/paodekuai/female/3.mp3": {
+      "md5": "a0ef2b1ee1d84b93f0218ff8a134021b"
+    }, 
+    "res/sounds/paodekuai/female/4.mp3": {
+      "md5": "b177aa600d975a73c8c5441b641ceb5d"
+    }, 
+    "res/sounds/paodekuai/female/5.mp3": {
+      "md5": "96a110b79dbede5a1a9bb130b91e64d0"
+    }, 
+    "res/sounds/paodekuai/female/6.mp3": {
+      "md5": "5a4f8d558ed5c24ab0bd07bc2f541169"
+    }, 
+    "res/sounds/paodekuai/female/7.mp3": {
+      "md5": "d4854534819624fddb01381868a1cd50"
+    }, 
+    "res/sounds/paodekuai/female/8.mp3": {
+      "md5": "da04920c9b6a1de7ef2791189b294f71"
+    }, 
+    "res/sounds/paodekuai/female/9.mp3": {
+      "md5": "7dd61e419a35e50471648eb1f57fca65"
+    }, 
+    "res/sounds/paodekuai/female/buyao1.mp3": {
+      "md5": "47fd55bce18c143a7ecf2faf87fdab17"
+    }, 
+    "res/sounds/paodekuai/female/buyao2.mp3": {
+      "md5": "35079f7602275224a2b2d851b6572ef1"
+    }, 
+    "res/sounds/paodekuai/female/buyao3.mp3": {
+      "md5": "771754e36f3c48ca292d2e2e4ea3efba"
+    }, 
+    "res/sounds/paodekuai/female/buyao4.mp3": {
+      "md5": "74acb8301016bdff970d94564c3a3486"
+    }, 
+    "res/sounds/paodekuai/female/d10.mp3": {
+      "md5": "115f3b92e1e9ca6366dfaa81409d38dd"
+    }, 
+    "res/sounds/paodekuai/female/d11.mp3": {
+      "md5": "0c9f9e1ae0413aecb460e69af29275a8"
+    }, 
+    "res/sounds/paodekuai/female/d12.mp3": {
+      "md5": "4b264890e24e18e57924f0b0bae010c9"
+    }, 
+    "res/sounds/paodekuai/female/d13.mp3": {
+      "md5": "33da217d36ed0f16d335ce04c052c232"
+    }, 
+    "res/sounds/paodekuai/female/d14.mp3": {
+      "md5": "bce2e10f9e2a9c014d4a13d9e567be96"
+    }, 
+    "res/sounds/paodekuai/female/d16.mp3": {
+      "md5": "a716fec6d3823809c689b12e81abca9f"
+    }, 
+    "res/sounds/paodekuai/female/d3.mp3": {
+      "md5": "a0c33c7f0c9bd7d1ffff3b6d44fe61ca"
+    }, 
+    "res/sounds/paodekuai/female/d4.mp3": {
+      "md5": "e7a41f461755f505c702ae95394cc236"
+    }, 
+    "res/sounds/paodekuai/female/d5.mp3": {
+      "md5": "f94f90c2d3d9af342bf824889c5a9006"
+    }, 
+    "res/sounds/paodekuai/female/d6.mp3": {
+      "md5": "efd436082eae1de62046c63dc8452b40"
+    }, 
+    "res/sounds/paodekuai/female/d7.mp3": {
+      "md5": "94b5ad8b2254be431f8b36f16bd3d8ee"
+    }, 
+    "res/sounds/paodekuai/female/d8.mp3": {
+      "md5": "f7cb2133377e9b72e4a4fcc3fe358091"
+    }, 
+    "res/sounds/paodekuai/female/d9.mp3": {
+      "md5": "620be86b8b87775cfa271697ba141db4"
+    }, 
+    "res/sounds/paodekuai/female/dafeiji.mp3": {
+      "md5": "1cb654a7b64058df1f4f7be633f5035d"
+    }, 
+    "res/sounds/paodekuai/female/dani1.mp3": {
+      "md5": "93c2a08eb500d0f9488f47de33cda11f"
+    }, 
+    "res/sounds/paodekuai/female/dani2.mp3": {
+      "md5": "c4035a0da2dff60a457bd0926b44dad7"
+    }, 
+    "res/sounds/paodekuai/female/dani3.mp3": {
+      "md5": "dc1cd293cc069b5dd3d7a7d4bc20cd07"
+    }, 
+    "res/sounds/paodekuai/female/feiji.mp3": {
+      "md5": "56120ece161fb2699c1ec21f7c49bfbf"
+    }, 
+    "res/sounds/paodekuai/female/feiji_m.mp3": {
+      "md5": "75e02a6df1d65d2012d85ec77fe6726c"
+    }, 
+    "res/sounds/paodekuai/female/kai_da.mp3": {
+      "md5": "8fff7bef305e0310030d766885694535"
+    }, 
+    "res/sounds/paodekuai/female/kaiqiang.mp3": {
+      "md5": "d90484b8f96164e1653dcfe14d0ebb1f"
+    }, 
+    "res/sounds/paodekuai/female/kaishile.mp3": {
+      "md5": "b75990a5bdb4c24e3bfe132096c18607"
+    }, 
+    "res/sounds/paodekuai/female/last.mp3": {
+      "md5": "000c045ef060787194272950ba0320fe"
+    }, 
+    "res/sounds/paodekuai/female/liandui.mp3": {
+      "md5": "35db2299a8439d899230297a344916b6"
+    }, 
+    "res/sounds/paodekuai/female/sanDAIyidui_m.mp3": {
+      "md5": "0c9e029b548f3699022dfb113e7b85ee"
+    }, 
+    "res/sounds/paodekuai/female/sandai0.mp3": {
+      "md5": "7b46601e703b72adf9bbe6b12c6e84c9"
+    }, 
+    "res/sounds/paodekuai/female/sandai1.mp3": {
+      "md5": "20181c2b3574e16a8349ca825f52a652"
+    }, 
+    "res/sounds/paodekuai/female/sandai2.mp3": {
+      "md5": "052762446f1a8fc291b4855a6b9fd8db"
+    }, 
+    "res/sounds/paodekuai/female/sandaiyi2.mp3": {
+      "md5": "dd9975a8ecfb96840cd8ce3b70f784e4"
+    }, 
+    "res/sounds/paodekuai/female/shangyoule.mp3": {
+      "md5": "05b5fd0e79ecf78560343cb189ac9ac7"
+    }, 
+    "res/sounds/paodekuai/female/shunzi.mp3": {
+      "md5": "5997168a815e535a0c701340cac35bf4"
+    }, 
+    "res/sounds/paodekuai/female/shunzi_m.mp3": {
+      "md5": "ddc66656b5d76e50a9739b17293bd57b"
+    }, 
+    "res/sounds/paodekuai/female/sidai1.mp3": {
+      "md5": "50bf092b29992849b493b35e0add956e"
+    }, 
+    "res/sounds/paodekuai/female/sidai2.mp3": {
+      "md5": "eeb9b31f2ad643920db145eede40b110"
+    }, 
+    "res/sounds/paodekuai/female/sidai3.mp3": {
+      "md5": "70435f04ebbf1d1d205b3e3b0b3b92c9"
+    }, 
+    "res/sounds/paodekuai/female/tianzha.mp3": {
+      "md5": "e97b9eda4c36e77bfec08d7e7ae7f689"
+    }, 
+    "res/sounds/paodekuai/female/tianzhadaowojia.mp3": {
+      "md5": "7b0fccb58315fc01b01cb9bdbff2f801"
+    }, 
+    "res/sounds/paodekuai/female/tonghuashun.mp3": {
+      "md5": "06ab20ebc75099f1325e05ec82114a11"
+    }, 
+    "res/sounds/paodekuai/female/tou_xiang.mp3": {
+      "md5": "2af51319a3a6ef70bd4be29758063a70"
+    }, 
+    "res/sounds/paodekuai/female/touxiang.mp3": {
+      "md5": "e1a50bbc799c28e948688e11767f45ac"
+    }, 
+    "res/sounds/paodekuai/female/woyouhei3wochutou.mp3": {
+      "md5": "da8d937cb49e385fc4f825a75fb0c3f9"
+    }, 
+    "res/sounds/paodekuai/female/zha_m.mp3": {
+      "md5": "75929524dd7955f16bb1a53c164f33d1"
+    }, 
+    "res/sounds/paodekuai/female/zhadan.mp3": {
+      "md5": "c6e8fc9f27d49596a4a704ce250838e4"
+    }, 
+    "res/sounds/paodekuai/male/10.mp3": {
+      "md5": "3bd100c28ebdd64f03284729f2fe24d4"
+    }, 
+    "res/sounds/paodekuai/male/11.mp3": {
+      "md5": "2059fdfffcc3d4f3cff869560380f731"
+    }, 
+    "res/sounds/paodekuai/male/12.mp3": {
+      "md5": "33d1cd376ca85905adc34774dfbce176"
+    }, 
+    "res/sounds/paodekuai/male/13.mp3": {
+      "md5": "52b4131d0ed74e1061aa96e97c8772f5"
+    }, 
+    "res/sounds/paodekuai/male/14.mp3": {
+      "md5": "0afc38089c48cb862cd89d86962dcf76"
+    }, 
+    "res/sounds/paodekuai/male/16.mp3": {
+      "md5": "e4f1e8b08c0700abcc127cdce373ca39"
+    }, 
+    "res/sounds/paodekuai/male/3.mp3": {
+      "md5": "f44567579eb60fbe2ba748a389885645"
+    }, 
+    "res/sounds/paodekuai/male/4.mp3": {
+      "md5": "542ec37458ba9f0e6d079ea4d878a059"
+    }, 
+    "res/sounds/paodekuai/male/5.mp3": {
+      "md5": "5125093b8ce1e7bba0aaeb421552bf30"
+    }, 
+    "res/sounds/paodekuai/male/6.mp3": {
+      "md5": "85b311e0b14c4da48d98911a10de5757"
+    }, 
+    "res/sounds/paodekuai/male/7.mp3": {
+      "md5": "53347e30a088d16d23bfe80ad5af8a04"
+    }, 
+    "res/sounds/paodekuai/male/8.mp3": {
+      "md5": "5a16ee2995e7b7506b7a25334e26a696"
+    }, 
+    "res/sounds/paodekuai/male/9.mp3": {
+      "md5": "992b3afe5e5fdbb173e8e36fec0bf987"
+    }, 
+    "res/sounds/paodekuai/male/buchui.mp3": {
+      "md5": "cb2bc015e2bb91ff50e2f8d4aa2b8c3f"
+    }, 
+    "res/sounds/paodekuai/male/bufanqiang.mp3": {
+      "md5": "c042c96123d5b11c64bea57aed9b84da"
+    }, 
+    "res/sounds/paodekuai/male/buyao1.mp3": {
+      "md5": "5df788e4227050e515acb64a2cbfe1a9"
+    }, 
+    "res/sounds/paodekuai/male/buyao2.mp3": {
+      "md5": "7a5ef51e9e4b138a512cbb8cd2bb916a"
+    }, 
+    "res/sounds/paodekuai/male/buyao3.mp3": {
+      "md5": "e2e0e1175ef62933e4ddc40782eb6d21"
+    }, 
+    "res/sounds/paodekuai/male/buyao4.mp3": {
+      "md5": "3781802d06523c92dc87b138d2203b70"
+    }, 
+    "res/sounds/paodekuai/male/chui.mp3": {
+      "md5": "244fa75065867e2c73cb2b6173fddb2f"
+    }, 
+    "res/sounds/paodekuai/male/d10.mp3": {
+      "md5": "d1ddf173e1497e7e2be4346df66039bf"
+    }, 
+    "res/sounds/paodekuai/male/d11.mp3": {
+      "md5": "2cf8748e983ed934456b7f71dcdc1bb6"
+    }, 
+    "res/sounds/paodekuai/male/d12.mp3": {
+      "md5": "665ce55caca90e3bc8532d9183319269"
+    }, 
+    "res/sounds/paodekuai/male/d13.mp3": {
+      "md5": "d5c93c243a3539f31f6aca12fd6fe717"
+    }, 
+    "res/sounds/paodekuai/male/d14.mp3": {
+      "md5": "a0eabb9c4bea6263fda2f50c960c8e02"
+    }, 
+    "res/sounds/paodekuai/male/d16.mp3": {
+      "md5": "0e141239442bf4be420ab0ee5426f4f8"
+    }, 
+    "res/sounds/paodekuai/male/d3.mp3": {
+      "md5": "c68476b36ea40532a273ff15ac5020fd"
+    }, 
+    "res/sounds/paodekuai/male/d4.mp3": {
+      "md5": "351b3e40c4367612aecaa122e6976c1c"
+    }, 
+    "res/sounds/paodekuai/male/d5.mp3": {
+      "md5": "46d7d3851db637c91dd0a313db8673ba"
+    }, 
+    "res/sounds/paodekuai/male/d6.mp3": {
+      "md5": "e9b38255ddf17114cf6cb9c34e49cb16"
+    }, 
+    "res/sounds/paodekuai/male/d7.mp3": {
+      "md5": "b762a17b7ab3e012cf1661d2d95eae91"
+    }, 
+    "res/sounds/paodekuai/male/d8.mp3": {
+      "md5": "882cb2e5f13bfa2e2f857d94e7aa68c2"
+    }, 
+    "res/sounds/paodekuai/male/d9.mp3": {
+      "md5": "b82961d6001a121a36b8d1202938d0cc"
+    }, 
+    "res/sounds/paodekuai/male/dani1.mp3": {
+      "md5": "397e3a0e293d1c05af2e336693f3dbe8"
+    }, 
+    "res/sounds/paodekuai/male/dani2.mp3": {
+      "md5": "8c86198207f55d0650e989186094dd10"
+    }, 
+    "res/sounds/paodekuai/male/dani3.mp3": {
+      "md5": "50c1ae9ca6742c446d04288c94683cf2"
+    }, 
+    "res/sounds/paodekuai/male/feiji.mp3": {
+      "md5": "c5b1e83a1883b41c40c69c6231026b2e"
+    }, 
+    "res/sounds/paodekuai/male/guo.mp3": {
+      "md5": "b57bd8983f02062c89ed5bbc0f0f119a"
+    }, 
+    "res/sounds/paodekuai/male/last.mp3": {
+      "md5": "000c045ef060787194272950ba0320fe"
+    }, 
+    "res/sounds/paodekuai/male/liandui.mp3": {
+      "md5": "6eb9f8311897861f5ff843ee562b781e"
+    }, 
+    "res/sounds/paodekuai/male/sandai0.mp3": {
+      "md5": "7b46601e703b72adf9bbe6b12c6e84c9"
+    }, 
+    "res/sounds/paodekuai/male/sandai1.mp3": {
+      "md5": "2c2f1327c685ff080e58561f2b62b48c"
+    }, 
+    "res/sounds/paodekuai/male/sandai2.mp3": {
+      "md5": "0c9e029b548f3699022dfb113e7b85ee"
+    }, 
+    "res/sounds/paodekuai/male/sandaiyi2.mp3": {
+      "md5": "199795a7a25eab0895de6bf5236ed276"
+    }, 
+    "res/sounds/paodekuai/male/shangyoule.mp3": {
+      "md5": "05b5fd0e79ecf78560343cb189ac9ac7"
+    }, 
+    "res/sounds/paodekuai/male/shunzi.mp3": {
+      "md5": "ddc66656b5d76e50a9739b17293bd57b"
+    }, 
+    "res/sounds/paodekuai/male/sidai1.mp3": {
+      "md5": "50bf092b29992849b493b35e0add956e"
+    }, 
+    "res/sounds/paodekuai/male/sidai2.mp3": {
+      "md5": "eeb9b31f2ad643920db145eede40b110"
+    }, 
+    "res/sounds/paodekuai/male/sidai3.mp3": {
+      "md5": "70435f04ebbf1d1d205b3e3b0b3b92c9"
+    }, 
+    "res/sounds/paodekuai/male/touxiang.mp3": {
+      "md5": "e1a50bbc799c28e948688e11767f45ac"
+    }, 
+    "res/sounds/paodekuai/male/woyouhei3wochutou.mp3": {
+      "md5": "da8d937cb49e385fc4f825a75fb0c3f9"
+    }, 
+    "res/sounds/paodekuai/male/zhadan.mp3": {
+      "md5": "fa63358f4ef1d21cd54ca66739d1abfe"
+    }, 
+    "res/sounds/yxph/female/101.mp3": {
+      "md5": "6a0d983a9b08856fac91b4b6d957f569"
+    }, 
+    "res/sounds/yxph/female/102.mp3": {
+      "md5": "796edc52d27c9ecc424f61fc99164b39"
+    }, 
+    "res/sounds/yxph/female/103.mp3": {
+      "md5": "5f5ea364e41d9180cc1db081eb30159c"
+    }, 
+    "res/sounds/yxph/female/104.mp3": {
+      "md5": "52bb2e1bae00046767a5abe51105595d"
+    }, 
+    "res/sounds/yxph/female/105.mp3": {
+      "md5": "f52a50eff363aa130a78269801f893bf"
+    }, 
+    "res/sounds/yxph/female/106.mp3": {
+      "md5": "4ad91134a519af651d64b72a8c570ce1"
+    }, 
+    "res/sounds/yxph/female/107.mp3": {
+      "md5": "aef0d1937654760b0947d1d744180d20"
+    }, 
+    "res/sounds/yxph/female/108.mp3": {
+      "md5": "3bb010e60832bcbf71d18c5e4aff2e9f"
+    }, 
+    "res/sounds/yxph/female/109.mp3": {
+      "md5": "a307c9588ebc6338c14e28567567db9a"
+    }, 
+    "res/sounds/yxph/female/110.mp3": {
+      "md5": "c3d4d90d2b2f3427c586dd8172b2d3e2"
+    }, 
+    "res/sounds/yxph/female/201.mp3": {
+      "md5": "031742ec5df93014ed0fe33c60881f80"
+    }, 
+    "res/sounds/yxph/female/202.mp3": {
+      "md5": "dd930f8e1308b916e8ff6a9d97d399c6"
+    }, 
+    "res/sounds/yxph/female/203.mp3": {
+      "md5": "c9d5ea2b3dfc795aa5d722848f9ab6f3"
+    }, 
+    "res/sounds/yxph/female/204.mp3": {
+      "md5": "781eeb3587956fb47c5eca0c7423fb71"
+    }, 
+    "res/sounds/yxph/female/205.mp3": {
+      "md5": "c1eab707008421dc733ceedca2981deb"
+    }, 
+    "res/sounds/yxph/female/206.mp3": {
+      "md5": "39e0fab57e622f63e65eb7f638c2ad32"
+    }, 
+    "res/sounds/yxph/female/207.mp3": {
+      "md5": "55df3e08d661f44f04877244db5ee1a6"
+    }, 
+    "res/sounds/yxph/female/208.mp3": {
+      "md5": "9bf1f90dee067ba9b764efbf0027448a"
+    }, 
+    "res/sounds/yxph/female/209.mp3": {
+      "md5": "6a2c3ca17f249b1d3156b1cfc4e880ba"
+    }, 
+    "res/sounds/yxph/female/210.mp3": {
+      "md5": "4b554c0cd81766e9e0e6f078253fce42"
+    }, 
+    "res/sounds/yxph/female/baojing.mp3": {
+      "md5": "ae926358b3a3abed11817ead71ededf7"
+    }, 
+    "res/sounds/yxph/female/chi.mp3": {
+      "md5": "d35bd95e2c4b51dee9a4c6a289d238cf"
+    }, 
+    "res/sounds/yxph/female/chiluo.mp3": {
+      "md5": "cfb304dd82f67192df477d67509c448d"
+    }, 
+    "res/sounds/yxph/female/hu.mp3": {
+      "md5": "c9f4d51f62e94a22e097f0122eb86fea"
+    }, 
+    "res/sounds/yxph/female/hu_dihu.mp3": {
+      "md5": "35214830e4a79ed34ec63b47545c6e30"
+    }, 
+    "res/sounds/yxph/female/hu_paohu.mp3": {
+      "md5": "928375221f4dc8045b2be3fb3d41f020"
+    }, 
+    "res/sounds/yxph/female/hu_penghu.mp3": {
+      "md5": "5d55d792d3651ea88886a589f3fb4317"
+    }, 
+    "res/sounds/yxph/female/hu_saohu.mp3": {
+      "md5": "ea4de03ea3d34e4092716faf1a94b9db"
+    }, 
+    "res/sounds/yxph/female/pao.mp3": {
+      "md5": "aca11a1598f5819a63b6bcdb8d2c0303"
+    }, 
+    "res/sounds/yxph/female/peng.mp3": {
+      "md5": "56914d05eb494c2b5b9fc2be63356e7e"
+    }, 
+    "res/sounds/yxph/female/pengsanda.mp3": {
+      "md5": "e926c415073f1571588c88f848c41f36"
+    }, 
+    "res/sounds/yxph/female/pengsiqing.mp3": {
+      "md5": "50a9741a91202838c4c67e5e888ef0dc"
+    }, 
+    "res/sounds/yxph/female/sao.mp3": {
+      "md5": "396e64bed9fa4da7ef6025b2920a9d12"
+    }, 
+    "res/sounds/yxph/female/saosanda.mp3": {
+      "md5": "b1d93a2f2c8a1e284fbbfd7a9f05e819"
+    }, 
+    "res/sounds/yxph/female/saosiqing.mp3": {
+      "md5": "faa606c69a8f54e0a2f709e9829bdcaf"
+    }, 
+    "res/sounds/yxph/female/shuanglong.mp3": {
+      "md5": "7f89dbfd78dafb8b591eded135d9ecc5"
+    }, 
+    "res/sounds/yxph/female/tianhu.mp3": {
+      "md5": "21323e26aac35addfe44e98e593d2498"
+    }, 
+    "res/sounds/yxph/female/tilong.mp3": {
+      "md5": "e2deb51fb0d88c9d01a4703e0f64a1bb"
+    }, 
+    "res/sounds/yxph/female_yx/101.mp3": {
+      "md5": "5fdaca8b3d27ec8df376d712d69b90f8"
+    }, 
+    "res/sounds/yxph/female_yx/102.mp3": {
+      "md5": "7c2ec3c93c5b64dca7f1e75a500b1d82"
+    }, 
+    "res/sounds/yxph/female_yx/103.mp3": {
+      "md5": "6119e5439c0ff8fc93567c717c25101a"
+    }, 
+    "res/sounds/yxph/female_yx/104.mp3": {
+      "md5": "2198049af06dc6a8f4996d74cc01934e"
+    }, 
+    "res/sounds/yxph/female_yx/105.mp3": {
+      "md5": "150bf2edb025001cedd2a4d2bed79ede"
+    }, 
+    "res/sounds/yxph/female_yx/106.mp3": {
+      "md5": "159c7107461f79eee265891a560b4a17"
+    }, 
+    "res/sounds/yxph/female_yx/107.mp3": {
+      "md5": "dc891166fa1083027948d280a2f11def"
+    }, 
+    "res/sounds/yxph/female_yx/108.mp3": {
+      "md5": "7b1f8ffe4eb00369bf5a48944b3395ab"
+    }, 
+    "res/sounds/yxph/female_yx/109.mp3": {
+      "md5": "fd5acb06c49ff8cbda81fc239657d9b0"
+    }, 
+    "res/sounds/yxph/female_yx/110.mp3": {
+      "md5": "94b0305bb471f3fc70a20fe4653636dc"
+    }, 
+    "res/sounds/yxph/female_yx/201.mp3": {
+      "md5": "11801b20ac54e3fff61239e88e8824f1"
+    }, 
+    "res/sounds/yxph/female_yx/202.mp3": {
+      "md5": "42e9d46f4b650a603234139760db6751"
+    }, 
+    "res/sounds/yxph/female_yx/203.mp3": {
+      "md5": "d2803eb1163f1e7a004695652cb5fbfe"
+    }, 
+    "res/sounds/yxph/female_yx/204.mp3": {
+      "md5": "0dd814e731c8b1a01bd509374ec47cdf"
+    }, 
+    "res/sounds/yxph/female_yx/205.mp3": {
+      "md5": "1583e216aaf031ea84c04874c946373d"
+    }, 
+    "res/sounds/yxph/female_yx/206.mp3": {
+      "md5": "e45ae16db2e6ee553721403e9945a214"
+    }, 
+    "res/sounds/yxph/female_yx/207.mp3": {
+      "md5": "fa752f6c9a4d22e387b40f7a1b52519c"
+    }, 
+    "res/sounds/yxph/female_yx/208.mp3": {
+      "md5": "820bc755629a79a0ebb0b06e5aa394bf"
+    }, 
+    "res/sounds/yxph/female_yx/209.mp3": {
+      "md5": "0862da22e07c1331733c855258f092a1"
+    }, 
+    "res/sounds/yxph/female_yx/210.mp3": {
+      "md5": "a5122a146eee1fabc5fb644e10dafbc1"
+    }, 
+    "res/sounds/yxph/female_yx/baojing.mp3": {
+      "md5": "110b7ae9d01e631877f234dc8f5ee357"
+    }, 
+    "res/sounds/yxph/female_yx/chi.mp3": {
+      "md5": "8c56191360b187eeea922116b083e8ad"
+    }, 
+    "res/sounds/yxph/female_yx/chiluo.mp3": {
+      "md5": "ef0ac028eb9fcca11eefea537af583d8"
+    }, 
+    "res/sounds/yxph/female_yx/hu.mp3": {
+      "md5": "2f7020031a799840ef8bf891cb4c0459"
+    }, 
+    "res/sounds/yxph/female_yx/hu_dihu.mp3": {
+      "md5": "2a7c4e6a4789613ca7fc4ef291fce252"
+    }, 
+    "res/sounds/yxph/female_yx/hu_paohu.mp3": {
+      "md5": "264654058b44d17bcf4f493c12ecce92"
+    }, 
+    "res/sounds/yxph/female_yx/hu_penghu.mp3": {
+      "md5": "98ed48617774b5366e1eb08bd73c8e26"
+    }, 
+    "res/sounds/yxph/female_yx/hu_saohu.mp3": {
+      "md5": "c7b0665a38d7afb4f690d3671c24e843"
+    }, 
+    "res/sounds/yxph/female_yx/pao.mp3": {
+      "md5": "762d9a88790e595259f5f7811ff121f3"
+    }, 
+    "res/sounds/yxph/female_yx/peng.mp3": {
+      "md5": "5167935bdc87fe09328f9efd704d41e1"
+    }, 
+    "res/sounds/yxph/female_yx/pengsanda.mp3": {
+      "md5": "5a4df8f0e7eab1f3d63be171e43704a5"
+    }, 
+    "res/sounds/yxph/female_yx/pengsiqing.mp3": {
+      "md5": "996729afc3646785cab68461702c1b5e"
+    }, 
+    "res/sounds/yxph/female_yx/sao.mp3": {
+      "md5": "5123ab1982f29344bdf20cab3ab36c56"
+    }, 
+    "res/sounds/yxph/female_yx/saosanda.mp3": {
+      "md5": "3b61ee05bc669328e05f4dc6102c89e8"
+    }, 
+    "res/sounds/yxph/female_yx/saosiqing.mp3": {
+      "md5": "311f7ca527c845e043370e34410ce145"
+    }, 
+    "res/sounds/yxph/female_yx/shuanglong.mp3": {
+      "md5": "e4d42a48be5d1cdcfee4289e7152b15c"
+    }, 
+    "res/sounds/yxph/female_yx/tianhu.mp3": {
+      "md5": "79c691df8a8ede73ecbbf6e1e1795fa4"
+    }, 
+    "res/sounds/yxph/female_yx/tilong.mp3": {
+      "md5": "48248a5e8bbadeb5d8b61d1de7e496b5"
+    }, 
+    "res/sounds/yxph/male/101.mp3": {
+      "md5": "60d62507ca5c1a5cfae911709e29d271"
+    }, 
+    "res/sounds/yxph/male/102.mp3": {
+      "md5": "b6cc97fcb1e1d69c1519674863c65953"
+    }, 
+    "res/sounds/yxph/male/103.mp3": {
+      "md5": "61d0e2b905de1c2dbbd59311245ff471"
+    }, 
+    "res/sounds/yxph/male/104.mp3": {
+      "md5": "1e74c02224b4b7e93d2d8dadb7edf3ca"
+    }, 
+    "res/sounds/yxph/male/105.mp3": {
+      "md5": "ae97ec93b412de648393aabb174fb6b9"
+    }, 
+    "res/sounds/yxph/male/106.mp3": {
+      "md5": "4112fdd778f0447ec19f8562ed5ef067"
+    }, 
+    "res/sounds/yxph/male/107.mp3": {
+      "md5": "61577af40c9b094c81b7cb1b1aba987a"
+    }, 
+    "res/sounds/yxph/male/108.mp3": {
+      "md5": "e94febb28ef276bfbd12ddc5873dbeb7"
+    }, 
+    "res/sounds/yxph/male/109.mp3": {
+      "md5": "51cac9cb9ebeaa6b055e46beb69768a0"
+    }, 
+    "res/sounds/yxph/male/110.mp3": {
+      "md5": "508fbf6704a8ae36f7ff046b8f3c30be"
+    }, 
+    "res/sounds/yxph/male/201.mp3": {
+      "md5": "ea618dc917ef9d5998e5065feb1afd7a"
+    }, 
+    "res/sounds/yxph/male/202.mp3": {
+      "md5": "17161f178568125420a69e7545dd9f60"
+    }, 
+    "res/sounds/yxph/male/203.mp3": {
+      "md5": "2239e87a53505db97e29476058368233"
+    }, 
+    "res/sounds/yxph/male/204.mp3": {
+      "md5": "78be0e3901fc15ebbd81efab2117edb8"
+    }, 
+    "res/sounds/yxph/male/205.mp3": {
+      "md5": "e2110ff57b8c06c295dc19187da663df"
+    }, 
+    "res/sounds/yxph/male/206.mp3": {
+      "md5": "d2c587278a78833ba765f0200e2db61f"
+    }, 
+    "res/sounds/yxph/male/207.mp3": {
+      "md5": "206ee664b406cdb1726cf984c0f5e4f4"
+    }, 
+    "res/sounds/yxph/male/208.mp3": {
+      "md5": "b9c6ab5e75f7d02791ba12d873bd21c3"
+    }, 
+    "res/sounds/yxph/male/209.mp3": {
+      "md5": "9f2b81f1569fe3ab5880a99da8b1e3f8"
+    }, 
+    "res/sounds/yxph/male/210.mp3": {
+      "md5": "4ecff207956ec29b314eac39ed2f721f"
+    }, 
+    "res/sounds/yxph/male/baojing.mp3": {
+      "md5": "295a4b71baef2e8a97e1601b5d7ab5a7"
+    }, 
+    "res/sounds/yxph/male/chi.mp3": {
+      "md5": "32dad8eedab4e2487e93f828c6607c16"
+    }, 
+    "res/sounds/yxph/male/chiluo.mp3": {
+      "md5": "ba507f26236e762970d4c8571182d03a"
+    }, 
+    "res/sounds/yxph/male/hu.mp3": {
+      "md5": "b34c4d52888863f3c6a363ccfa5361fb"
+    }, 
+    "res/sounds/yxph/male/hu_dihu.mp3": {
+      "md5": "546787cceefa91fc50e0d3a258b284f5"
+    }, 
+    "res/sounds/yxph/male/hu_paohu.mp3": {
+      "md5": "1963b06607f6b792966b57cd90a4130d"
+    }, 
+    "res/sounds/yxph/male/hu_penghu.mp3": {
+      "md5": "d86ce654db516ee013d95f97c76f76cd"
+    }, 
+    "res/sounds/yxph/male/hu_saohu.mp3": {
+      "md5": "1f00563fbd5e12d04174fa1ec14d5e59"
+    }, 
+    "res/sounds/yxph/male/pao.mp3": {
+      "md5": "be2b54530ad5e222ec2281b1bba2515e"
+    }, 
+    "res/sounds/yxph/male/peng.mp3": {
+      "md5": "ce187c16374f7dad5c09c7b08f1b5891"
+    }, 
+    "res/sounds/yxph/male/pengsanda.mp3": {
+      "md5": "3c90bdefb70d48beececa4e11b9ab1b6"
+    }, 
+    "res/sounds/yxph/male/pengsiqing.mp3": {
+      "md5": "c142dac2550a24f832a43fc24f5729bf"
+    }, 
+    "res/sounds/yxph/male/sao.mp3": {
+      "md5": "2430b1f5e982fe290d7b8fd635cdf539"
+    }, 
+    "res/sounds/yxph/male/saosanda.mp3": {
+      "md5": "85b499dc0e6eb7612cf921e8e65ecb3e"
+    }, 
+    "res/sounds/yxph/male/saosiqing.mp3": {
+      "md5": "853b82eb9563b2751340d2412cf229ea"
+    }, 
+    "res/sounds/yxph/male/shuanglong.mp3": {
+      "md5": "d8d21e723379d3f7cf7002127c75396a"
+    }, 
+    "res/sounds/yxph/male/tianhu.mp3": {
+      "md5": "cd56fde2b1db35d008e84d7ede73c2d9"
+    }, 
+    "res/sounds/yxph/male/tilong.mp3": {
+      "md5": "b5adc4fcc0487e3f9d480e7015667b9b"
+    }, 
+    "res/sounds/yxph/male_yx/101.mp3": {
+      "md5": "e599cc792d2d497e0cf5d11ec2a17218"
+    }, 
+    "res/sounds/yxph/male_yx/102.mp3": {
+      "md5": "6260d7d7bfbb8423b418d55145f4487b"
+    }, 
+    "res/sounds/yxph/male_yx/103.mp3": {
+      "md5": "58d767d64fbb3f7ea6bf88d1bff8f4c4"
+    }, 
+    "res/sounds/yxph/male_yx/104.mp3": {
+      "md5": "88ab4cce1ca8dbbe72d7d294e53cfa36"
+    }, 
+    "res/sounds/yxph/male_yx/105.mp3": {
+      "md5": "941ffa6ab1c6e8b90b68162d63150018"
+    }, 
+    "res/sounds/yxph/male_yx/106.mp3": {
+      "md5": "e9503eef1dab9ad6184bae5d6addc728"
+    }, 
+    "res/sounds/yxph/male_yx/107.mp3": {
+      "md5": "ec83833d6e5858daaa05d9cc0e743af0"
+    }, 
+    "res/sounds/yxph/male_yx/108.mp3": {
+      "md5": "efc54c5c420016edfd97660efbac8c59"
+    }, 
+    "res/sounds/yxph/male_yx/109.mp3": {
+      "md5": "503b9155bc9996de171749382f15b000"
+    }, 
+    "res/sounds/yxph/male_yx/110.mp3": {
+      "md5": "cc9e99fdab636299f868c6ceb60612a7"
+    }, 
+    "res/sounds/yxph/male_yx/201.mp3": {
+      "md5": "4b74596e676228e5d620c860c2696794"
+    }, 
+    "res/sounds/yxph/male_yx/202.mp3": {
+      "md5": "020f5a68a0540bdf1f2854933000c30d"
+    }, 
+    "res/sounds/yxph/male_yx/203.mp3": {
+      "md5": "7719a2c6a2ddf50084217c9481e2b668"
+    }, 
+    "res/sounds/yxph/male_yx/204.mp3": {
+      "md5": "888d10be9c66fc24da2d59e845485a5f"
+    }, 
+    "res/sounds/yxph/male_yx/205.mp3": {
+      "md5": "a279a1ddbf53116378075496656cd28e"
+    }, 
+    "res/sounds/yxph/male_yx/206.mp3": {
+      "md5": "6d1652d5ee7206e91f9d1cf3f0d209e7"
+    }, 
+    "res/sounds/yxph/male_yx/207.mp3": {
+      "md5": "058c02b531c24e967599b3f486478a81"
+    }, 
+    "res/sounds/yxph/male_yx/208.mp3": {
+      "md5": "c457a55cb48f59ff3957c80bf3eae841"
+    }, 
+    "res/sounds/yxph/male_yx/209.mp3": {
+      "md5": "0f54d2b383c6e39ad93383c34dd6a234"
+    }, 
+    "res/sounds/yxph/male_yx/210.mp3": {
+      "md5": "b641e2c65b6381bf4217627698450269"
+    }, 
+    "res/sounds/yxph/male_yx/baojing.mp3": {
+      "md5": "ad659dbf3c504429a014709ecb44a7f2"
+    }, 
+    "res/sounds/yxph/male_yx/chi.mp3": {
+      "md5": "cdc7ee517bea7c617cf7e9a2b75406d7"
+    }, 
+    "res/sounds/yxph/male_yx/chiluo.mp3": {
+      "md5": "00c3b436abcff46748da8821d8b23a42"
+    }, 
+    "res/sounds/yxph/male_yx/hu.mp3": {
+      "md5": "918f17258bbb2cce588d946392ccbccd"
+    }, 
+    "res/sounds/yxph/male_yx/hu_dihu.mp3": {
+      "md5": "3ce2d410d0e8ad6bb2750c0561634633"
+    }, 
+    "res/sounds/yxph/male_yx/hu_paohu.mp3": {
+      "md5": "d467ce3df4aeb72029793864fdee9e2f"
+    }, 
+    "res/sounds/yxph/male_yx/hu_penghu.mp3": {
+      "md5": "8a365fddcdd85ab64067ffa93fd46fd4"
+    }, 
+    "res/sounds/yxph/male_yx/hu_saohu.mp3": {
+      "md5": "b0c88bb0f1534992f54635b38260e9cd"
+    }, 
+    "res/sounds/yxph/male_yx/pao.mp3": {
+      "md5": "e826d9d22c97d691affc0d30123c901c"
+    }, 
+    "res/sounds/yxph/male_yx/peng.mp3": {
+      "md5": "3c93ecb85da99f39e3bd6ce4ba160283"
+    }, 
+    "res/sounds/yxph/male_yx/pengsanda.mp3": {
+      "md5": "9e95968fa46a071e85d3e2fba197e629"
+    }, 
+    "res/sounds/yxph/male_yx/pengsiqing.mp3": {
+      "md5": "451a2088817770518d4f614ee1a88dad"
+    }, 
+    "res/sounds/yxph/male_yx/sao.mp3": {
+      "md5": "c240f3a8ece2839194d20c8205d183fc"
+    }, 
+    "res/sounds/yxph/male_yx/saosanda.mp3": {
+      "md5": "76e2f6f4ac2ad474bd401e1a768aaa1b"
+    }, 
+    "res/sounds/yxph/male_yx/saosiqing.mp3": {
+      "md5": "76c547174dccf2eabe2318cd49d3934d"
+    }, 
+    "res/sounds/yxph/male_yx/shuanglong.mp3": {
+      "md5": "d7c7cdfb5b0acad609de0f1f466a6236"
+    }, 
+    "res/sounds/yxph/male_yx/tianhu.mp3": {
+      "md5": "313c36b3b647dc289dde3f1fe92c5188"
+    }, 
+    "res/sounds/yxph/male_yx/tilong.mp3": {
+      "md5": "a7b528117647ac1e4a15572391589bb3"
+    }, 
+    "res/sounds/zhadanbaozha.mp3": {
+      "md5": "4eb5707627ec37a848de80cca50699d4"
+    }, 
+    "res/textures/actions.plist": {
+      "md5": "c3d697f5d7da32a958c421b70cc471d7"
+    }, 
+    "res/textures/actions.png": {
+      "md5": "56c4de1fb58cb0fcc44aee5211ab549c"
+    }, 
+    "res/textures/explosion.plist": {
+      "md5": "16fd53492f80b2894ccc3f695b4af79c"
+    }, 
+    "res/textures/explosion.png": {
+      "md5": "cdec3de04354152083ec3880c635cad0"
+    }, 
+    "res/textures/fireline.plist": {
+      "md5": "77eede26365158c8f624ca3d69c72da0"
+    }, 
+    "res/textures/game_anims.plist": {
+      "md5": "dced78707452622136ee97be7122c869"
+    }, 
+    "res/textures/game_anims.png": {
+      "md5": "e53eaaab5177686252aa2d2306d18437"
+    }, 
+    "res/textures/game_face.plist": {
+      "md5": "88d4c9a0babf3acc87335394979c87f1"
+    }, 
+    "res/textures/game_face.png": {
+      "md5": "52040bc198c18ddefa4e770d573ecc7a"
+    }, 
+    "res/textures/handblink.plist": {
+      "md5": "643012adcf28ebe7e14a5987f983fdb9"
+    }, 
+    "res/textures/majiang.plist": {
+      "md5": "6a002808bc4f4cffbeb1e0e07c12b767"
+    }, 
+    "res/textures/majiang.png": {
+      "md5": "2b1e4d84ce11f41e24bbed358442185e"
+    }, 
+    "res/textures/paper_cards.plist": {
+      "md5": "9f09763ae37fe37756a1c15abedd23e4"
+    }, 
+    "res/textures/paper_cards.png": {
+      "md5": "f8b7011311dc48c00eb6445a3d21d881"
+    }, 
+    "res/textures/particleTexture.png": {
+      "md5": "f574410bc0b6039652d38c8eadc13815"
+    }, 
+    "res/version.manifest": {
+      "md5": "732571eb16a25a1ccc319e5269f02071"
+    }, 
+    "res/views/alertView.csb": {
+      "md5": "51fa22d9957f1806868af02261095e92"
+    }, 
+    "res/views/avater.csb": {
+      "md5": "1f48747e43b065dfe994a4e2f908c608"
+    }, 
+    "res/views/confirmWindow.csb": {
+      "md5": "f51a72f0a0926cf53ec8a266a754478c"
+    }, 
+    "res/views/createRoom/createCSMJ.csb": {
+      "md5": "d6e89fc2ab1eba23861eb458d6e686e4"
+    }, 
+    "res/views/createRoom/createHZMJ.csb": {
+      "md5": "3e43688432b3f5554d99d6a80843d3f4"
+    }, 
+    "res/views/createRoom/createNN.csb": {
+      "md5": "abe4e3fa45a5929431ed7d06fb176dce"
+    }, 
+    "res/views/createRoom/createPDK.csb": {
+      "md5": "3f32a4629bf03851fe2ad8e84ea708b3"
+    }, 
+    "res/views/createRoom/createRoomView.csb": {
+      "md5": "bcbe9edf8f0fff596114ecebba332663"
+    }, 
+    "res/views/createRoom/createXTMJ.csb": {
+      "md5": "1b3905f911f13c4d33a33a8e86913a37"
+    }, 
+    "res/views/createRoom/createYXPH.csb": {
+      "md5": "b26cee714a5e5a2c9800d0c37a47775f"
+    }, 
+    "res/views/createRoom/createZPJ.csb": {
+      "md5": "a347bd340e7c5bccbbc3c22c357166db"
+    }, 
+    "res/views/createRoom/createZZMJ.csb": {
+      "md5": "a3f03acb015eb217766f373a8ac23701"
+    }, 
+    "res/views/daTingGonggao.csb": {
+      "md5": "e9c4667e6fdcde61140424ce78382b35"
+    }, 
+    "res/views/daTingRank.csb": {
+      "md5": "a7190cd8f4f661fd58e6efd55c70ed70"
+    }, 
+    "res/views/games/dismissRoom.csb": {
+      "md5": "c9e5f49cc34c63a4a72486e79680faca"
+    }, 
+    "res/views/games/gameOver.csb": {
+      "md5": "b4ead19e5a048a8699e65a8a532e07bb"
+    }, 
+    "res/views/games/gameOverItem.csb": {
+      "md5": "21b4a4e394400e9f2939bcca5b56e0b7"
+    }, 
+    "res/views/games/jieSanFangJian.csb": {
+      "md5": "742db757b1f3d2e59ce65be7cb59327d"
+    }, 
+    "res/views/games/majiang/caoZuoTiao.csb": {
+      "md5": "cb7f48ed0e2542ffb0e7d745ce877e3d"
+    }, 
+    "res/views/games/majiang/fangWei.csb": {
+      "md5": "5c59f11037271edd7d1866804315f23f"
+    }, 
+    "res/views/games/majiang/gameOverItem.csb": {
+      "md5": "4f79ff1c8c0c7427b35cb0ee7dc73968"
+    }, 
+    "res/views/games/majiang/gameOverView.csb": {
+      "md5": "366b2fec7d3778855f9833c227c7a7fb"
+    }, 
+    "res/views/games/majiang/hostPlayer.csb": {
+      "md5": "141e424a0a25bc6d77e58e9fca7037ff"
+    }, 
+    "res/views/games/majiang/kanDwon.csb": {
+      "md5": "1813d64feb6c209da7f0b44ae8da2c16"
+    }, 
+    "res/views/games/majiang/kanDwonItem.csb": {
+      "md5": "1c75b465d6de6a8f08ba0b2ae9bbb272"
+    }, 
+    "res/views/games/majiang/kanLeft.csb": {
+      "md5": "80c9ac5739ed06f28b0002ab8b7b99e6"
+    }, 
+    "res/views/games/majiang/kanRight.csb": {
+      "md5": "9726a21eead3477d4e45b42be23ff2c4"
+    }, 
+    "res/views/games/majiang/kanUp.csb": {
+      "md5": "de8dc041fd6bf4124641d9f217765e34"
+    }, 
+    "res/views/games/majiang/majiangHand.csb": {
+      "md5": "dc992f26701c523221ae52c1280b13c4"
+    }, 
+    "res/views/games/majiang/majiangLeft.csb": {
+      "md5": "e7d437be56a6a6db427edd4b43b6f2b7"
+    }, 
+    "res/views/games/majiang/majiangRight.csb": {
+      "md5": "a380f718282c4322013761551db0a372"
+    }, 
+    "res/views/games/majiang/majiangUp.csb": {
+      "md5": "7cb6852efc811a9e24e05f5284eac03b"
+    }, 
+    "res/views/games/majiang/player2.csb": {
+      "md5": "7f2e847cc890b8f8ab2d1918e62028bc"
+    }, 
+    "res/views/games/majiang/player3.csb": {
+      "md5": "6f08e2da047ab1a1b3dabfd6c7fa8b91"
+    }, 
+    "res/views/games/majiang/player4.csb": {
+      "md5": "9c2d0c0de8df9f2d0fc8b286d3b3803d"
+    }, 
+    "res/views/games/majiang/roundOver.csb": {
+      "md5": "1dc4979b7014cda60b33cad9472fdc7a"
+    }, 
+    "res/views/games/majiang/roundOverKan.csb": {
+      "md5": "39356bd3edf08907bbd9c8e73b1cb63c"
+    }, 
+    "res/views/games/majiang/roundOveritem.csb": {
+      "md5": "d020f82e3eaba267b9e14844522654ec"
+    }, 
+    "res/views/games/majiang/tableHead.csb": {
+      "md5": "5dd1286cd180061b387eec4f6d18bf1f"
+    }, 
+    "res/views/games/majiang/tableView.csb": {
+      "md5": "754c564c39e813074b5dd381f90fa5af"
+    }, 
+    "res/views/games/naoZhong.csb": {
+      "md5": "d4fdea6bc3201497c9cfc1caab3d861e"
+    }, 
+    "res/views/games/niuniu/GameOver.csb": {
+      "md5": "686e68459d1b3a03bd0ee5752fbe81e9"
+    }, 
+    "res/views/games/niuniu/caoZuoTiao.csb": {
+      "md5": "846324af183ee54454b73045d0e48afc"
+    }, 
+    "res/views/games/niuniu/playerView.csb": {
+      "md5": "0b6ab6345af7bec14d51263c0a52c13b"
+    }, 
+    "res/views/games/niuniu/tableView.csb": {
+      "md5": "31fc59bca3d73f1eb1ca7c85dd45e12d"
+    }, 
+    "res/views/games/paohuzi/GameOver.csb": {
+      "md5": "31aef62985aea5b72c01ec1005a0fe8c"
+    }, 
+    "res/views/games/paohuzi/bigCard.csb": {
+      "md5": "7b79ce9f98fff69821f73028c12ff98e"
+    }, 
+    "res/views/games/paohuzi/caozuo.csb": {
+      "md5": "b861589926b871ec72dba7713528e8d8"
+    }, 
+    "res/views/games/paohuzi/chuPaiContent.csb": {
+      "md5": "3c1876f0bd6d59b63e63dd7f144c6901"
+    }, 
+    "res/views/games/paohuzi/kan.csb": {
+      "md5": "b6fd8f0eb63c043fc904b4cfb0fd9783"
+    }, 
+    "res/views/games/paohuzi/kanContent.csb": {
+      "md5": "4c002267de3a9122e7ffaef458acdd34"
+    }, 
+    "res/views/games/paohuzi/playerView.csb": {
+      "md5": "9e92c16de45a18b03b2fb4abf5931af8"
+    }, 
+    "res/views/games/paohuzi/roundOver.csb": {
+      "md5": "821a94c6cf048ac26bc11ab813ea7502"
+    }, 
+    "res/views/games/paohuzi/roundOverKan.csb": {
+      "md5": "8aa2e9c9d1918268154f0e7ab55ab19f"
+    }, 
+    "res/views/games/paohuzi/smallCard.csb": {
+      "md5": "0c955f8cccb15952504872b20378f56a"
+    }, 
+    "res/views/games/paohuzi/tableView.csb": {
+      "md5": "ac3e67ae6cfc5e88d20429ce8a18e34f"
+    }, 
+    "res/views/games/pdk/caoZuoTiao.csb": {
+      "md5": "7b152eedc63d696226a7df256631e47a"
+    }, 
+    "res/views/games/pdk/playerView.csb": {
+      "md5": "a60ef3434e0d46349d97e1d145811aa5"
+    }, 
+    "res/views/games/pdk/roundOver.csb": {
+      "md5": "e8067fe562b2a178302a9afc6dbf4a4d"
+    }, 
+    "res/views/games/pdk/tableView.csb": {
+      "md5": "72447adfcf6df2ac80e57fe56bd6b5da"
+    }, 
+    "res/views/games/pdk/xuanPaiView.csb": {
+      "md5": "83d6b5180ffe8a707cd65f59d8831560"
+    }, 
+    "res/views/games/playerView.csb": {
+      "md5": "8786252dea80e515b37435303175178b"
+    }, 
+    "res/views/games/poker.csb": {
+      "md5": "b2b08f302bdf253984033d4d7fc525b9"
+    }, 
+    "res/views/games/pokers.csb": {
+      "md5": "033206b893d6bbdf61933c8ee49c829d"
+    }, 
+    "res/views/games/tableHead.csb": {
+      "md5": "c1d0d0bbc434fa6ad96490c5d7af7f8a"
+    }, 
+    "res/views/games/zhupojiu/playerView.csb": {
+      "md5": "6694e1851fef361dac55b55400d56369"
+    }, 
+    "res/views/games/zhupojiu/tableView.csb": {
+      "md5": "ab12d88e938dbde50ebe78a7dd955751"
+    }, 
+    "res/views/joinRoom.csb": {
+      "md5": "b5fc68c7270db043f898771043f1bfd3"
+    }, 
+    "res/views/julebu/chaGuanListItem.csb": {
+      "md5": "0995227987f4ad85d98de7b7c59c622b"
+    }, 
+    "res/views/julebu/chaGuanListView.csb": {
+      "md5": "13f30513024cd23ed6078ea07a74e4a6"
+    }, 
+    "res/views/julebu/chengYuanItem.csb": {
+      "md5": "0ad85b6f8b91390ac47c9acca476affd"
+    }, 
+    "res/views/julebu/chengYuanListView.csb": {
+      "md5": "1ef50ac00ca7d9cfd5753c70346d79c1"
+    }, 
+    "res/views/julebu/chengyuanShenQing.csb": {
+      "md5": "30f6935481501901d2129627d64de2b6"
+    }, 
+    "res/views/julebu/createClubView.csb": {
+      "md5": "3603b7f8698b42564de05d7fccb08cfe"
+    }, 
+    "res/views/julebu/dayingjiaItem.csb": {
+      "md5": "50fdf693ed3d36c2fcd9fa47133bca30"
+    }, 
+    "res/views/julebu/guanLiView.csb": {
+      "md5": "2088320b1e0ab62b7bc9422148e93f23"
+    }, 
+    "res/views/julebu/memberInfo.csb": {
+      "md5": "3b805e69444928574ee87acd48b57d0e"
+    }, 
+    "res/views/julebu/memberItem.csb": {
+      "md5": "041c5b1bb5d29d9bbdc91028c0bccd19"
+    }, 
+    "res/views/julebu/memberList.csb": {
+      "md5": "8f39d4fc64ad31ce1b2a090b5e26f788"
+    }, 
+    "res/views/julebu/siRenZhuo.csb": {
+      "md5": "fe6fb839a891895aa85f8d4d8150f992"
+    }, 
+    "res/views/julebu/sureAddMember.csb": {
+      "md5": "8e129faeaf02c63997ab326c862b5a95"
+    }, 
+    "res/views/julebu/tiRen.csb": {
+      "md5": "886afe9776a79686ef89d959ff55f3f9"
+    }, 
+    "res/views/julebu/yaoQingMember.csb": {
+      "md5": "0b44b08aea1a8103c60ceae9fc140f90"
+    }, 
+    "res/views/julebu/zhanjiItem.csb": {
+      "md5": "92fb759c992678589c2b47329bc9daec"
+    }, 
+    "res/views/julebu/zhanjiView.csb": {
+      "md5": "2c2de9b0bbb10b71319100b8d83c3b62"
+    }, 
+    "res/views/kefuView.csb": {
+      "md5": "1d9aea85e9cb841d65826fd802c6e22f"
+    }, 
+    "res/views/playerInfo.csb": {
+      "md5": "119608f6ce34bd46f4921ef7cdae74fc"
+    }, 
+    "res/views/sanRenDingWei.csb": {
+      "md5": "9cf722087fe008e233b1954637c5d16a"
+    }, 
+    "res/views/setView.csb": {
+      "md5": "18cd0101c2bc783632ada238781a4fd4"
+    }, 
+    "res/views/share.csb": {
+      "md5": "059aeb678a924c37d6074d7a217c7a7d"
+    }, 
+    "res/views/shop/shop.csb": {
+      "md5": "ce0587dc7b2bce8ab6810ada0e604822"
+    }, 
+    "res/views/shop/shopItem.csb": {
+      "md5": "3d4a71b6842b4e80a7df1f7e2ca414b5"
+    }, 
+    "res/views/siRenDingWei.csb": {
+      "md5": "9dddd76b7d7a9e07f1a497cbac3039b8"
+    }, 
+    "res/views/zhanji/zhanJiItem.csb": {
+      "md5": "f3da23825e4f338e845a068f0c867d0e"
+    }, 
+    "res/views/zhanji/zhanJuItem.csb": {
+      "md5": "40777dae9aab1058a49b734ab4faaeb7"
+    }, 
+    "res/views/zhanji/zhanjiView.csb": {
+      "md5": "2f9bad54ee811a2a0f8be0bf533446f5"
+    }
+  }, 
+  "engineVersion": "Cocos2dx-lua 3.6.5", 
+  "packageUrl": "http://120.79.233.16:8088/hotupdate/", 
+  "remoteManifestUrl": "http://120.79.233.16:8088/hotupdate/res/project.manifest", 
+  "remoteVersionUrl": "http://120.79.233.16:8088/hotupdate/res/version.manifest", 
+  "searchPaths": [], 
+  "version": "1.0.5"
+}

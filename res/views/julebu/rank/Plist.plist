@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>views/julebu/rank/bgLine.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{762,101}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{762,101}</string>
+			</dict>
+			<key>views/julebu/rank/one.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{877,56},{55,91}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{55,91}</string>
+			</dict>
+			<key>views/julebu/rank/three.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{820,56},{57,95}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{57,95}</string>
+			</dict>
+			<key>views/julebu/rank/title.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{762,0},{247,56}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{247,56}</string>
+			</dict>
+			<key>views/julebu/rank/titleBg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,101},{387,75}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{387,75}</string>
+			</dict>
+			<key>views/julebu/rank/todayBtn.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{387,169},{338,68}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{338,68}</string>
+			</dict>
+			<key>views/julebu/rank/two.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{762,56},{58,95}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{58,95}</string>
+			</dict>
+			<key>views/julebu/rank/weekBtn.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{387,101},{339,68}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{339,68}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Plist.png</string>
+			<key>realTextureFileName</key>
+			<string>Plist.png</string>
+			<key>size</key>
+			<string>{1009,237}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1009</integer>
+			<key>height</key>
+			<integer>237</integer>
+		</dict>
+	</dict>
+</plist>
